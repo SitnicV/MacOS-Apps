@@ -4,10 +4,8 @@
 
 *I planing to parse this list and asign category for each application/service*
 
-- [0 A.D.](https://svn.wildfiregames.com/public/ps/trunk/) - Free, open-source, historical real-time strategy game.
-- [1.1.1.1](https://1.1.1.1) - DNS resolver.
+
 - [1440](https://1440app.com) - Customizable wallpaper app.
-- [1Password](https://1password.com) - Password manager.
 - [2Do](https://www.2doapp.com) - Task management app.
 - [500 Mac Wallpapers](https://github.com/markcheeky/500macwallpaper) - A collection of 500 high-resolution Mac wallpapers.
 - [7sols Dissolv](https://www.7sols.com/dissolv) - Video editing software.
