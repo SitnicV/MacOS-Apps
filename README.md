@@ -4,103 +4,40 @@
 
 *I planing to parse this list and asign category for each application/service*
 
-
-- [1440](https://1440app.com) - Customizable wallpaper app.
-- [2Do](https://www.2doapp.com) - Task management app.
-- [500 Mac Wallpapers](https://github.com/markcheeky/500macwallpaper) - A collection of 500 high-resolution Mac wallpapers.
+- [1440](https://1440app.com) - Customizable wallpaper app.git init
 - [7sols Dissolv](https://www.7sols.com/dissolv) - Video editing software.
-- [Acid Cam v2](https://github.com/lostjared/Acid.Cam.v2.OSX) - Real-time image and video effects software for macOS.
-- [Acorn](https://secure.flyingmeat.com/acorn) - Image editor for macOS.
 - [Actions](https://github.com/sindresorhus/Actions) - The easiest way to automate your GitHub workflows.
-- [ActivityWatch](https://activitywatch.net) - Time tracking and activity logging.
-- [Adapter](https://macroplant.com/adapter) - Audio and video converter.
-- [AdGuard for Safari](https://github.com/adguardteam/adguardforsafari) - AdBlock extension for Safari.
-- [Adium](https://adium.im) - Instant messaging client.
-- [Adium](https://github.com/adium/adium) - Popular instant messaging client.
-- [Adobe XD](https://www.adobe.com/products/experiencedesign.html) - Design and prototyping tool.
-- [Aegisub](https://github.com/Aegisub/Aegisub) - Advanced subtitle editor.
-- [Aerial](https://github.com/JohnCoates/Aerial) - Apple TV Aerial Views Screen Saver.
-- [Affine](https://affine.pro) - Image editor.
-- [Affinity](https://affinity.serif.com) - Graphic design software.
-- [Agenda](https://agenda.com) - Note-taking app.
-- [Airmail](http://airmailapp.com) - Email client for macOS.
-- [Airpass](https://github.com/alvesjtiago/airpass) - Manage Wi-Fi passwords on macOS from the menu bar.
-- [AirServer](http://www.airserver.com/Download) - AirPlay and Google Cast receiver.
-- [Akku](https://github.com/jariz/Akku) - A lightweight status bar application to show the remaining battery percentage.
-- [Alacritty](https://github.com/alacritty/alacritty) - GPU-accelerated terminal emulator.
-- [Alacritty](https://github.com/jwilm/alacritty) - A cross-platform, GPU-accelerated terminal emulator.
-- [Alchemy](http://al.chemy.org) - Experimental drawing software.
-- [Alfred Dash Plugin](https://www.alfredapp.com/blog/productivity/dashquickerapidocumentationsearch/) - Alfred plugin for Dash documentation search.
+- [ActivityWatch](https://activitywatch.net) -  {crossapp}  Time tracking and activity logging.
+- [Adapter](https://macroplant.com/adapter)  {crossapp} - Audio and video converter.
+- [Affine](https://affine.pro) {crossapp} - Image editor.
+- [Affinity](https://affinity.serif.com) {crossapp} - Graphic design software.
+- [Alacritty](https://alacritty.org/index.html) {crossapp} - A cross-platform, GPU-accelerated terminal emulator.
 - [Alfred](https://www.alfredapp.com) - Productivity application for macOS.
 - [Algo VPN](https://github.com/trailofbits/algo) - Set up a personal IPSEC VPN in the cloud.
-- [AlternativeTo](https://alternativeto.net) - Software recommendations.
-- [AltTab macOS](https://github.com/lwouis/alttabmacos) - Windows-like alt-tab switcher for macOS.
-- [AltTab](https://alttabmacos.netlify.app) - Alt-Tab replacement for macOS.
+- [AlternativeTo](https://alternativeto.net) {SITE} - Software recommendations.
 - [Amadine](https://amadine.com) - Vector graphic design software.
-- [Amazon Developer](https://www.amazon.com/l/16571048011) - Amazon developer resources.
-- [Amethyst](https://github.com/ianyh/Amethyst) - A tiling window manager for macOS.
 - [Amethyst](https://ianyh.com/amethyst) - Tiling window manager for macOS.
 - [Amphetamine](https://itunes.apple.com/us/app/amphetamine/id937984704) - Keep your Mac awake.
-- [Android Studio](https://developer.android.com/studio/index.html) - IDE for Android app development.
-- [AndroidTool](https://github.com/mortenjust/androidtoolmac) - A macOS app for controlling Android devices.
-- [AnneProMac](https://github.com/msvisser/AnnePromac) - macOS application for the Anne Pro 2 keyboard.
-- [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager) - A fast Redis desktop manager focused on simplicity and performance.
-- [Anvil](https://anvilformac.com) - Web development environment.
-- [AnyBar](https://github.com/tonsky/AnyBar) - macOS menubar status indicator.
-- [AnyDesk](https://anydesk.com) - Remote desktop software.
-- [Ao](https://github.com/klaudiosinani/ao) - Elegant Microsoft To-Do app for macOS.
-- [Apache Directory Studio](https://directory.apache.org/studio) - LDAP directory browser and editor.
-- [Apidog](https://www.apidog.com) - API documentation browser.
-- [APNGb](https://github.com/mancunianetz/APNGb) - macOS app for optimizing APNG files.
+- [Android Studio](https://developer.android.com/studio/index.html) {Crossapp} - IDE for Android app development.
+- [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)  {Crossapp} - A fast Redis desktop manager focused on simplicity and performance.
+- [Ao](https://github.com/klaudiosinani/ao) {Crossapp}  - Elegant Microsoft To-Do app for macOS.
+- [Apache Directory Studio](https://directory.apache.org/studio) {crossapp} - LDAP directory browser and editor.
 - [APNGb](https://github.com/shgodoroja/APNGb) - APNG assembler & disassembler.
-- [AppBoxiOSAppsWirelessInstallation](https://github.com/getappbox/AppBoxiOSAppsWirelessInstallation) - Install iOS apps without the App Store.
-- [AppDownloader](https://github.com/yep/appdownloader) - macOS app to download, extract, and manage apps.
-- [Appersian](https://appersian.net) - Persian app store.
-- [AppFlowy](https://www.appflowy.io) - Mind mapping and note-taking app.
+- [AppFlowy](https://www.appflowy.io) {crossapp} - Mind mapping and note-taking app.
 - [AppGrid](https://github.com/mjolnirapp/AppGrid) - A grid-based window manager for macOS.
-- [AppHouse Kitchen](https://apphousekitchen.com) - App development platform.
-- [AppIcons](https://github.com/kuyawa/AppIcons) - macOS app that creates app icons for Xcode projects.
-- [AppJS](https://appjs.com) - Desktop application framework.
-- [Apple Chess Source](https://opensource.apple.com/source/Chess/Chess410.4.1/) - Apple Chess source code.
-- [AppleEvents](https://github.com/insidegui/AppleEvents) - A simple app for browsing Apple Events on your Mac.
-- [AppleJuice](https://github.com/raphaelhanneken/applejuice) - A fresh, adaptive Mac icon replacement.
-- [AppleTrace](https://github.com/everettjf/AppleTrace) - A tracing tool for macOS.
-- [AppPolice](https://github.com/AppPolice/AppPolice) - Limit CPU usage of apps on your Mac.
-
-- [AppShopper](https://appshopper.com) - App discovery platform.
-- [AppStoreReviewTimes](https://github.com/arbel03/AppStoreReviewTimes) - Historical review times for iOS and macOS apps.
+- [AppJS](https://appjs.com) {crossapp} - Desktop application framework.
 - [Aptonic](https://aptonic.com) - Mac app development.
 - [Arc](https://arc.net) - Archiving tool.
-- [ArcheyOS](http://obihann.github.io/archeyos) - Information display script for Arch Linux.
-- [ArchiveMounter](https://github.com/ivoronin/ArchiveMounter) - A macOS app to mount disk images and archives in Finder.
 - [Ardour](https://ardour.org) - Digital audio workstation.
 - [Aria2](https://aria2.github.io) - Download utility.
-- [Arq Backup](https://www.arqbackup.com) - Cloud backup solution.
-- [Artify](https://github.com/NghiaTranUIT/artifymacos) - macOS app to download album art.
+- [Arq Backup](https://www.arqbackup.com) {crossapp} - Cloud backup solution.
 - [Asciinema](https://github.com/asciinema/asciinema) - Terminal session recorder.
-- [Aseprite](https://github.com/aseprite/aseprite) - Animated sprite editor & pixel art tool.
 - [Aspect](https://aspect.bildhuus.com) - Photo editor with unique filters.
-- [AssetCatalogTinkerer](https://github.com/insidegui/AssetCatalogTinkerer) - An app that lets you open .car files and browse/extract their images.
-- [Assetizr](https://assetizr.com) - Image optimization tool.
-- [Assets](https://github.com/e7711bbear/Assets) - Static file manager a-la iOS.
-- [ASWPformacOS](https://github.com/JustinFincher/ASWPformacOS) - An unofficial macOS app for App Store Connect.
-- [Atom](https://github.com/atom/atom) - The hackable text editor.
-- [Attabench](https://github.com/attaswift/Attabench) - Microbenchmarking app for macOS.
-- [Audacity](https://github.com/audacity/audacity) - Cross-platform audio software.
 - [Audacity](https://www.audacityteam.org) - Audio software.
-- [Audio Hijack](https://www.rogueamoeba.com/audiohijack) - Audio recorder and editor.
-- [Audiotools](https://github.com/billthefarmer/audiotools/tree/master/Scope/swift) - Audio file utilities for Swift.
-- [AUHost](https://github.com/vgorloff/AUHost) - macOS app for hosting Audio Unit plugins.
-- [Aural Player](https://github.com/kartikvenugopal/auralplayer) - Minimalistic audio player for macOS.
 - [AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - Text editor with LaTeX support.
-- [Aurvan SQLight](https://aurvan.com/sqlight) - SQLite database viewer.
+- [Aurvan SQLight](https://aurvan.com/sqlight) - SQLite database manager tool.
 - [Authy](https://authy.com) - Two-factor authentication app.
-- [Autojump](https://github.com/wting/autojump/wiki) - A faster way to navigate your filesystem from the command line.
-- [Automute](https://github.com/yonilevy/automute) - Mute your microphone while typing.
-- [AVXCAssetsGenerator](https://github.com/angelvasa/AVXCAssetsGenerator) - Swift command line tool for generating Xcode Asset Catalogs.
-- [awesomemac/issues/17](https://github.com/jaywcjlove/awesomemac/issues/17) - A GitHub issue with a list of awesome open source applications for macOS.
-- [Axure RP](https://www.axure.com) - Prototyping and wireframing tool.
-- [Azure Data Studio](https://docs.microsoft.com/en-us/sql/azuredatastudio) - Data management tool for SQL Server.
+
 - [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - macOS audio utility, turns your audio output into a virtual input.
 - [BalanceOpen](https://github.com/balanceio/balanceopen) - Network security software for macOS.
 - [Balsamiq Mockups](https://balsamiq.com/products/mockups) - Wireframing tool.
