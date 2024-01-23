@@ -176,88 +176,34 @@
 - [GrafBase](https://grafbase.com) - Database app.
 - [Grammarly](https://app.grammarly.com) {crossapp} - Writing assistant.
 - [Gray](https://github.com/zenangst/Gray) - A macOS app to change the color of your folder icons.
-
-- [HackerMenu](https://github.com/owenthereal/hackermenu) - Hacker News in the macOS menu bar.
-- [hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua.
-- [Hammerspoon](https://www.hammerspoon.org) - Desktop automation utility.
-- [HandBrake](https://github.com/HandBrake/HandBrake) - A tool for converting video from nearly any format to a selection of modern, widely supported codecs.
-- [HandBrake](https://handbrake.fr) - Video transcoder.
-- [HandShaker](https://www.smartisan.com/apps/handshaker) - Android file transfer for Mac.
-- [HapticKey](https://github.com/niw/HapticKey/releases) - A macOS preference pane to control the keyboard haptic feedback.
-- [Haskell for Mac](http://haskellformac.com) - Haskell programming environment for macOS.
-- [HazeOver](https://hazeover.com) - Distraction dimmer for your screen.
-- [He3](https://he3.app) - Advanced file browser and manager.
-- [Helium](https://github.com/JadenGeller/Helium) - A floating browser window for macOS.
-- [Helix](https://helixeditor.com) - Code editor.
+- [HandBrake](https://handbrake.fr)  {crossapp} - Video transcoder.
+- [He3](https://he3.app) {crossapp}  - Advanced file browser and manager.
 - [Hex Fiend](https://ridiculousfish.com/hexfiend) - Hex editor for macOS.
 - [hidden](https://github.com/dwarvesf/hidden) - A ultra-light MacOS utility that helps you quickly hide/unhide files.
 - [Homebrew](https://brew.sh) - Package manager for macOS.
-- [homebrewcask](https://github.com/Homebrew/homebrewcask) - A CLI workflow for the administration of macOS applications.
 - [Hook](https://hookproductivity.com) - Linking and retrieval app.
-- [HoRNDIS](https://github.com/jwise/HoRNDIS) - Android USB tethering driver for macOS.
 - [Hosts.prefpane](https://github.com/specialunderwear/Hosts.prefpane) - macOS System Preferences pane to manage your /etc/hosts file.
-- [htop](https://github.com/hishamhm/htop) - An interactive process viewer for Unix systems.
-- [HTTPie](https://httpie.io) - User-friendly command-line HTTP client.
-- [HTTPie](https://httpie.org) - User-friendly command-line HTTP client.
-- [httptoolkitdesktop](https://github.com/httptoolkit/httptoolkitdesktop) - Capture, inspect, and debug HTTP(S) traffic.
-- [HTTrack](http://www.httrack.com) - Website copier and offline browser.
-- [Hummingbird](https://hummingbirdapp.site) - Music player.
+- [HTTPie](https://httpie.io) {crossapp} - User-friendly command-line HTTP client.
+- [HTTrack](http://www.httrack.com)  {crossapp} - Website copier and offline browser.
 - [Hungrymark](https://zhengying.github.io/hungrymark) - Bookmark manager with AI-powered recommendations.
-- [Hydrogen](http://hydrogenmusic.org) - Music creation software.
-- [Hyper](https://github.com/vercel/hyper) - A terminal built on web technologies.
-- [Hyper](https://hyper.is) - Terminal emulator.
-- [iA Writer](https://ia.net/writer) - Text editor with focus mode.
-- [iChm](https://github.com/NSGod/ichm) - CHM (compiled HTML) file reader.
-- [iCmd](https://icmd.app) - Remote command-line interface for iOS.
-- [IconGenerator](https://github.com/onmyway133/IconGenerator) - macOS app to generate app icons.
-- [Iconizer](https://github.com/raphaelhanneken/iconizer) - A macOS app to create app icons.
-- [IconJar](https://geticonjar.com) - Icon organizer.
-- [Iconology](https://github.com/liamrosenfeld/Iconology) - macOS app for managing icon sets and libraries.
-- [Iconset](https://iconset.io) - Icon organizer.
+- [Hyper](https://hyper.is) {crossapp} - Terminal emulator
+- [IconGenerator](https://indiegoodies.com) - exceptional iOS and macOS apps that enrich lives and boost productivity.
 - [iGlance](https://github.com/iglance/iGlance) - macOS system monitor in your menu bar.
-- [iGlance](https://github.com/Moneypulation/iGlance) - System monitor for macOS.
-- [iina](https://github.com/iina/iina) - A modern video player for macOS.
-- [IINA](https://github.com/lhc70000/iina) - Modern macOS video player.
-- [IINA](https://lhc70000.github.io/iina) - Media player for macOS.
-- [IllaCloud](https://www.illacloud.com) - All-in-one cloud management.
-- [ImageAlpha](https://github.com/kornelski/ImageAlpha) - GUI for PNG quantization tools.
-- [ImageAsWallpaper](https://github.com/ved62/ImageAsWallpaper) - macOS app to set images as wallpaper easily.
-- [ImageOptim](https://github.com/ImageOptim/ImageOptim) - GUI for lossless image optimization tools.
+- [IINA](https://iina.io/) - Media player for macOS.
 - [ImageOptim](https://imageoptim.com/mac) - Image optimizer.
-- [Imagine](https://github.com/meowtec/Imagine) - A desktop app for compression of PNG and JPEG.
+- [Imagine](https://github.com/meowtec/Imagine) {crossapp} - A desktop app for compression of PNG and JPEG.
 - [Img2icns](http://www.img2icnsapp.com) - Icon converter.
-- [ImHex](https://imhex.werwolv.net) - Hex editor.
+- [ImHex](https://imhex.werwolv.net) {crossapp} - Hex editor.
 - [InfiniteCanvas](https://github.com/CleanCocoa/InfiniteCanvas) - An infinite canvas for drawing.
-- [InjectionIII](https://github.com/johnno1962/InjectionIII) - A Code Injection Plugin for Xcode.
-- [Inkdrop](https://www.inkdrop.info) - Markdown note-taking app.
-- [Inklet](https://tenonedesign.com/inklet.php) - Drawing app for Mac and iPad with a stylus.
-- [Inkscape](https://gitlab.com/inkscape/inkscape) - Vector graphics editor.
-- [Inkscape](https://inkscape.org/en) - Vector graphics editor.
+- [Inkscape](https://inkscape.org/en) {crossapp} - Vector graphics editor.
 - [InputSource](https://inputsource.pro) - Virtual keyboard switcher.
-- [Insomnia](https://github.com/Kong/insomnia) - Cross-platform REST API client with cookie management and code generation.
 - [Insomnia](https://insomnia.rest) - API client.
-- [Integrity](http://peacockmedia.software/mac/integrity/free.html) - Website link checker.
 - [IntelliDock](https://mightymac.app/intellidock) - Intelligent Dock for macOS.
-- [intellijcommunity](https://github.com/JetBrains/intellijcommunity) - IntelliJ IDEA Community Edition.
-- [invesalius3](https://github.com/invesalius/invesalius3/) - 3D medical imaging reconstruction software.
-- [Ionic Framework](http://ionicframework.com) - Cross-platform app development framework.
-- [iOScanX](https://github.com/alessiomaffeis/iOScanX) - iOS app security scanner.
-- [iOSImagesExtractor](https://github.com/devcxm/iOSImagesExtractor) - Extract iOS app icons.
-- [iOSLocalizationEditor](https://github.com/igorkulman/iOSLocalizationEditor) - Simple macOS editor app to help you manage iOS app localizations.
-- [IrvueScreensaver](https://github.com/leonspok/IrvueScreensaver) - macOS screensaver for displaying beautiful Unsplash photos.
+- [Ionic Framework](http://ionicframework.com) {dev}- Cross-platform app development framework.
 - [iSimulator](https://github.com/wigl/iSimulator) - A GUI utility to control the Simulator.
-- [IsItPrivate](https://github.com/ffittschen/IsItPrivate) - A privacy and security inspector for your Mac.
-- [iStat Menus](https://bjango.com/mac/istatmenus) - System monitoring app.
-- [iStats](https://github.com/Chris911/iStats) - Simple command-line tool for your Mac stats.
-- [iTerm2](https://github.com/gnachman/iTerm2) - A terminal emulator for macOS that does amazing things.
 - [iTerm2](https://www.iterm2.com) - Terminal emulator for macOS.
-- [iTranslate](http://www.itranslate.com) - Language translation app.
-- [Itsycal](https://github.com/sfsam/Itsycal) - A tiny calendar for your Mac's menu bar.
 - [Itsycal](https://www.mowglii.com/itsycal) - Menu bar calendar for macOS.
-- [iTunes Connect](https://github.com/trulyronak/itunesconnect) - Unofficial iTunes Connect app for macOS.
-- [iTunesGraphs](https://github.com/ZacGarby/iTunesGraphs) - Graphs your iTunes library over time.
-- [iTunesRemote](https://github.com/mischah/itunesremote) - Control iTunes from your macOS menu bar.
-- [iTunesVolumeControl](https://github.com/alberti42/iTunesVolumeControl) - Control iTunes volume using keyboard shortcuts.
+
 - [J2S](https://github.com/zadr/j2s) - Converts Jira issues to markdown for use in git commit messages.
 - [JackDB](https://www.jackdb.com) - SQL query tool.
 - [james](https://github.com/jamesproxy/james) - HTTP Proxy to view and intercept browser requests in realtime.
