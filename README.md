@@ -37,61 +37,24 @@
 - [AuroraEditor](https://github.com/AuroraEditor/AuroraEditor) - Text editor with LaTeX support.
 - [Aurvan SQLight](https://aurvan.com/sqlight) - SQLite database manager tool.
 - [Authy](https://authy.com) - Two-factor authentication app.
-
 - [BarTranslate](https://github.com/ThijmenDam/BarTranslate) - macOS app that translates text from your menu bar.
-- [Base](https://menial.co.uk/base) - SQLite database manager.
-- [bash-it](https://github.com/Bashit/bashit) - Bash framework for iTerm2.
 - [bat](https://github.com/sharkdp/bat) - A cat clone with syntax highlighting and Git integration.
-- [Battle for Wesnoth](https://github.com/wesnoth/wesnoth) - A turn-based strategy game with a fantasy theme.
-- [Bdash](https://github.com/bdashapp/bdash) - SQL client for Mac.
-- [BeagleIM](https://github.com/tigase/beagleim) - XMPP client for macOS, Windows, and Linux.
-- [Beaker](https://github.com/beakerbrowser/beaker) - Experimental browser for the decentralized web.
-- [Bear](http://www.bearwriter.com) - Note-taking app.
+- [Battle for Wesnoth](https://github.com/wesnoth/wesnoth) {crossapp} - A turn-based strategy game with a fantasy theme.
 - [BeardedSpice](https://github.com/beardedspice/beardedspice) - Control web-based media players with your Mac's media keys.
-- [Beekeeper Studio](https://github.com/beekeeperstudio/beekeeperstudio) - SQL editor and database manager.
-- [Beekeeper Studio](https://www.beekeeperstudio.io) - SQL editor and database manager.
-- [BeLight Software - Art Text](https://www.belightsoft.com/arttext) - Graphic design software.
-- [BeMyEyes](https://www.bemyears.io) - App for blind and visually impaired people.
-- [Betaflight Configurator](https://github.com/betaflight/betaflightconfigurator) - Configurator for the Betaflight firmware.
 - [Better Rename](https://www.publicspace.net/BetterRename) - File renaming tool.
-- [BetterGlobeKey](https://github.com/Serpentiel/betterglobekey) - Adds support for dynamic keyboard backlight in 16-inch MacBook Pro.
-- [BetterMouse](https://bettermouse.com) - Customizable mouse gestures.
 - [BetterPiP](https://github.com/Capevace/BetterPiP) - Safari extension for improved Picture-in-Picture on YouTube.
-- [BetterTouchTool](https://folivora.ai) - Customization tool for input devices.
-- [Beyond Compare](https://www.scootersoftware.com) - File and folder comparison tool.
-- [Beyond Grep](https://beyondgrep.com) - Search tool like grep but with improved usability.
-- [bifrost](https://github.com/ishuah/bifrost) - A simple and user-friendly open source status bar app.
 - [BindPDF](https://github.com/vishaltelangre/bindPDF) - macOS app to bind PDF files together.
-- [BingPaper](https://github.com/pengsrc/BingPaper) - Automatically set your macOS wallpaper using Bing images.
-- [BitBar](https://getbitbar.com) - Put the output from any script or program into the macOS menu bar.
-- [BitBar](https://www.getbidbar.com) - Customizable menu bar.
-- [Bitwarden Desktop](https://github.com/bitwarden/desktop) - Bitwarden password manager desktop app.
-- [Bitwarden](https://bitwarden.com) - Open-source password manager.
-- [bitwardenmenubar](https://github.com/jnsdrtlf/bitwardenmenubar) - Bitwarden menu bar app.
-- [BlackHole](https://github.com/ExistentialAudio/BlackHole) - A modern macOS virtual audio driver that allows applications to pass audio to other applications with zero additional latency.
-- [Blender](https://projects.blender.org/) - Open-source 3D creation suite.
-- [Blender](https://www.blender.org) - Open-source 3D creation suite.
-- [Blockstack Browser](https://github.com/stacksnetwork/blockstackbrowser) - The Blockstack Browser.
-- [BlurScreen](https://www.blurscreen.app) - App to automatically blur the screen.
+- [BitBar](https://www.getbidbar.com) {$10} - Customizable menu bar.
+- [Bitwarden](https://bitwarden.com) {crossapp} - Open-source password manager.
+- [Blender](https://www.blender.org) {crossapp} - Open-source 3D creation suite.
 - [BoardForGitHub](https://github.com/JustinFincher/BoardForGitHub) - An open-source
-- [BoltAI](https://boltai.com) - AI-powered writing assistant.
 - [Boop](https://boop.okat.best) - Scriptable scratchpad for developers.
-- [Boop](https://github.com/IvanMathy/Boop) - A scriptable scratchpad for developers.
-- [Boostnote](https://boostnote.io) - Note-taking app for developers.
-- [BoostNoteLegacy](https://github.com/BoostIO/BoostNoteLegacy) - Note-taking app for programmers.
-- [Bootstrap Studio](https://bootstrapstudio.io) - Web design tool.
-- [BorgBase](https://github.com/borgbase) - Borg backup hosting service.
-- [Boxer](https://github.com/alunbestor/Boxer) - DOS game emulator for macOS.
-- [Brackets](https://brackets.io) - Code editor for web development.
-- [Brackets](https://github.com/bracketscont/brackets) - Modern text editor for web designers and developers.
-- [Brave Browser](https://github.com/brave/bravebrowser) - Privacy-focused web browser.
-- [Brave](https://brave.com) - Privacy-focused web browser.
-- [Brisk](https://github.com/br1sk/brisk) - Weather app for the Mac menu bar.
-- [Brooklyn](https://github.com/pedrommcarrasco/Brooklyn) - A fully modular status bar for macOS.
-- [Browserosaurus](https://github.com/willstone/browserosaurus) - An alternative browser prompter for macOS.
-- [Bruno](https://www.usebruno.com) - Notion alternative for macOS.
-- [Buttercup Desktop](https://github.com/buttercup/buttercupdesktop) - Password manager for desktop.
-- [Buttercup](https://buttercup.pw) - Password manager.
+- [Bootstrap Studio](https://bootstrapstudio.io) {$59} - Web design tool.
+- [Brackets](https://brackets.io) {crossapp} - Code editor for web development.
+- [Brave](https://brave.com) {crossapp}  - Privacy-focused web browser.
+- [Bruno](https://www.usebruno.com) {crossapp} - Postman alternative
+- [Buttercup](https://buttercup.pw)  {crossapp} - Password manager.
+
 - [Cacher](https://www.cacher.io) - Code snippet organizer.
 - [Cakebrew](https://github.com/brunophilipe/Cakebrew) - Manage Homebrew formulae through an app interface.
 - [Cakebrew](https://www.cakebrew.com) - Homebrew GUI app.
