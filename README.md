@@ -204,116 +204,45 @@
 - [iTerm2](https://www.iterm2.com) - Terminal emulator for macOS.
 - [Itsycal](https://www.mowglii.com/itsycal) - Menu bar calendar for macOS.
 
-- [J2S](https://github.com/zadr/j2s) - Converts Jira issues to markdown for use in git commit messages.
-- [JackDB](https://www.jackdb.com) - SQL query tool.
-- [james](https://github.com/jamesproxy/james) - HTTP Proxy to view and intercept browser requests in realtime.
-- [JDownloader](https://jdownloader.org) - Open-source software for downloading files.
+- [JDownloader](https://jdownloader.org) {crossapp} - Open-source software for downloading files.
 - [jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System.
-- [JetBrains](https://www.jetbrains.com) - IDEs for various programming languages.
-- [jmc](https://github.com/jcm93/jmc) - A native Java Mission Control for macOS.
-- [Job](https://github.com/liujianping/job) - macOS native, lightweight, multi-tabs, configurable replacement for cron jobs.
-- [Joplin](https://github.com/laurent22/joplin) - An open-source note-taking and to-do application with synchronization capabilities.
-- [Joplin](https://joplinapp.org) - Note-taking and to-do app.
-- [Journey](https://gowithjourney.com) - Journal app.
-- [Journey](https://journey.cloud) - Journal app.
-- [JPEGmini](https://www.jpegmini.com) - Image optimization tool.
-- [JSON Splora](https://github.com/wellsjo/JSONSplora) - GUI for editing, visualizing, and manipulating JSON data.
-- [jsoneditorapp](https://github.com/fand/jsoneditorapp) - A simple JSON editor for macOS.
-- [JSONExport](https://github.com/AhmedAli/JSONExport) - Convert JSON objects to Swift models.
-- [JSONMapper](https://github.com/AppCraftLLC/jsonmapper) - Convert JSON objects to Swift Codable objects.
-- [JsonModelGenerator](https://github.com/chanonly123/JsonModelGenerator) - Xcode plugin that generates Objective-C and Swift model files from JSON.
+
+- [JetBrains](https://www.jetbrains.com)  {crossapp} - IDEs for various programming languages.
+- [Joplin](https://joplinapp.org) {crossapp} - Note-taking and to-do app.
 - [Juice](https://github.com/brianmichel/Juice) - iOS app for tracking your subscriptions.
-- [Justinmind](https://www.justinmind.com) - Prototyping tool.
-- [Kagi Browser](https://browser.kagi.com) - Web browser.
-- [Kaleidoscope](https://www.kaleidoscopeapp.com) - File comparison app.
+- [Justinmind](https://www.justinmind.com) {crossapp} - Prototyping tool.
+- [Kagi Browser](https://browser.kagi.com) - Web browser Orion.
 - [Kap](https://getkap.co) - Screen recording app.
-- [Kap](https://github.com/wulkano/kap) - An open-source screen recorder built with web technology.
-- [Karabiner-Elements](https://github.com/pqrsorg/KarabinerElements) - A powerful and stable keyboard customizer for macOS.
-- [Karabiner](https://github.com/tekezo/Karabiner) - A powerful and stable keyboard customizer for macOS.
-- [Karabiner](https://pqrs.org/osx/karabiner) - Keyboard customization tool.
 - [KaraokeEternal](https://github.com/bhj/KaraokeEternal) - Karaoke app for Mac.
-- [Katalon Studio](https://www.katalon.com) - Test automation tool.
-- [Katana](https://github.com/bluegill/katana) - Text editor for macOS.
-- [kawa](https://github.com/hatashiro/kawa) - An HTML/CSS renderer for macOS.
-- [Kawa](https://github.com/utatti/kawa) - Capture, edit, and share screenshots in a few seconds.
-- [KeePassXC](https://github.com/keepassxreboot/keepassxc) - Cross-platform community-driven port of KeePass password manager.
-- [KeePassXC](https://keepassxc.org) - Password manager.
-- [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake) - A menu bar utility to prevent your Mac from going to sleep.
-- [KeeWeb](https://github.com/keeweb/keeweb) - Free, open-source password manager compatible with KeePass.
-- [KeeWeb](https://keeweb.info) - Cross-platform password manager.
-- [Keka](https://github.com/aonez/Keka) - macOS file archiver.
+- [KeepingYouAwake](https://keepingyouawake.app/) - A menu bar utility to prevent your Mac from going to sleep.
+- [KeeWeb](https://keeweb.info) {crossapp} - Cross-platform password manager.
 - [Keka](https://www.keka.io) - File archiver for macOS.
-- [Keybase](https://keybase.io) - Secure file sharing and messaging.
-- [Keyboard Maestro](http://www.keyboardmaestro.com) - Automation software.
+- [Keybase](https://keybase.io) {crossapp} - Secure file sharing and messaging.
 - [Keycastr](https://github.com/keycastr/keycastr) - Keystroke visualizer for macOS.
-- [KeyframesPlayer](https://github.com/insidegui/KeyframesPlayer) - Play your animations exported from Keynote in Xcode.
-- [KeyHolder](https://github.com/Clipy/KeyHolder) - Securely store sensitive information on macOS.
 - [Keytty](https://keytty.com) - App launcher and switcher.
-- [KiCad](https://gitlab.com/kicad/code/kicad) - Electronic design automation (EDA) software.
-- [Kite](https://kiteapp.co) - AI-powered developer tool.
-- [Kitty](https://github.com/kovidgoyal/kitty) - Cross-platform, fast, feature-rich terminal emulator.
-- [KiwiX](https://github.com/kiwix/apple) - Offline Wikipedia reader for macOS.
 - [Klib](http://klib.me) - Personal knowledge management app.
-- [Knuff](https://github.com/KnuffApp/Knuff) - The debug application for Apple Push Notification Service (APNs).
-- [Koala](https://koalaapp.com) - GUI application for LESS, Sass, Compass, and CoffeeScript compilation.
-- [Kodi](https://kodi.tv) - Media player and entertainment hub.
-- [Krisp](https://krisp.ai) - Noise-canceling app for calls.
-- [Krita](https://invent.kde.org/graphics/krita) - Digital painting and illustration software.
-- [Krita](https://krita.org/en) - Digital painting and illustration software.
-- [KubeContext](https://github.com/turkenh/KubeContext) - macOS app to manage and switch between Kubernetes contexts/namespaces.
-- [KubeMonitor](https://github.com/DanielSanche/KubeMonitor) - Monitor your Kubernetes cluster from your Mac.
-- [KubeSwitch](https://github.com/nsriram/KubeSwitch) - macOS menubar app for switching between Kubernetes contexts and namespaces.
-- [Kyapchar](https://github.com/vishaltelangre/Kyapchar) - An app for macOS that allows you to copy the current playing track from Spotify to clipboard.
-- [Lantern](https://getlantern.org) - Internet proxy tool.
-- [Lantern](https://github.com/RoyalIcing/Lantern) - A simple tool to help you design your SwiftUI views.
-- [Lapce](https://lapce.dev) - Code editor.
-- [Lark Suite](https://www.larksuite.com/en_us) - Collaboration suite.
+- [Kodi](https://kodi.tv) {crossapp} - Media player and entertainment hub.
+- [Krita](https://krita.org/en) {crossapp} - Digital painting and illustration software.
+- [Lantern](https://getlantern.org)  {crossapp}  - Internet proxy tool.
+- [Lapce](https://lapce.dev) {crossapp} - Code editor.
 - [Later](https://getlater.app) - Social media scheduling app.
-- [Latest](https://github.com/mangerlahn/Latest) - A utility to keep your macOS apps up to date.
-- [LayerX](https://github.com/yuhuachen/LayerX) - Simple macOS app to manage Windows-like layers.
-- [Lazy](https://www.lazyapp.com) - Window manager and launcher.
-- [Lepton](https://github.com/hackjutsu/Lepton) - A lean code snippet manager based on GitHub Gist.
-- [Letters](https://github.com/klaaspieter/letters) - A simple text editor for macOS.
-- [Leviathan](https://github.com/Swiftodon/Leviathan) - Open-source iOS and macOS DevTools used by thousands of developers.
-- [LibreOffice](https://www.libreoffice.org) - Free office suite.
-- [LibreWolf](https://librewolf.net) - Privacy-focused web browser.
-- [LICEcap](http://www.cockos.com/licecap) - Animated screen capture app.
-- [Lifehacker](https://lifehacker.com) - Productivity and life hacks.
-- [Lifesaver](https://github.com/amiantos/lifesaver) - Restore unsaved documents on macOS.
-- [LightPaper](https://getlightpaper.com) - Markdown editor.
-- [Lightshot](https://app.prntscr.com) - Screenshot tool.
-- [LightTable](https://lighttable.com) - IDE with a focus on simplicity and productivity.
-- [lilypondui](https://github.com/doches/lilypondui) - A GUI for LilyPond.
-- [Lima](https://github.com/limavm/lima) - Linux virtual machines for macOS, Windows, and Linux.
-- [LimeChat](https://limechat.net/mac) - IRC client.
+- [Lepton](https://github.com/hackjutsu/Lepton) {crossapp}  - A- Free office lean code snippet manager based on GitHub Gist.
+- [LibreOffice](https://www.libreoffice.org) {crossapp}  suite.
+- [LibreWolf](https://librewolf.net) {crossapp} - Privacy-focused web browser.
+- [LICEcap](http://www.cockos.com/licecap) {crossapp} - Animated screen capture app.?
+- [Lightshot](https://app.prntscr.com) {crossapp}   - Screenshot tool.
+- [LightTable](https://lighttable.com) {crossapp} - IDE with a focus on simplicity and productivity.
 - [LinearMouse](https://linearmouse.app) - Adjustable and ergonomic mouse.
-- [Lingvanex](https://lingvanex.com) - Translation app.
 - [Linked](https://github.com/lostdesign/linked) - A file manager designed to work with symbolic links.
 - [LinkedIdeas](https://github.com/fespinoza/LinkedIdeas) - macOS concept mapping tool.
-- [LinkLiar](https://github.com/halo/LinkLiar) - A menubar app for changing your MAC address.
 - [LinkLiar](https://halo.github.io/LinkLiar) - Ethernet MAC address spoofer.
-- [Little Snitch](https://www.obdev.at/products/littlesnitch/download.html) - Network monitor and firewall.
-- [LiveCode](https://github.com/livecode/livecode) - A cross-platform rapid application development (RAD) platform.
-- [LMMS](https://lmms.io) - Digital audio workstation.
+- [LiveCode](https://github.com/livecode/livecode) {crossapp}  - A cross-platform rapid application development (RAD) platform.
+- [LMMS](https://lmms.io) {crossapp}  - Digital audio workstation.
 - [lnav](https://lnav.org) - Log file navigator.
 - [Loading](https://github.com/BonzaiThePenguin/Loading) - Simple web browser that focuses on privacy and security.
 - [Loca Studio](https://www.cunningo.com/locastudio/index.html) - Localization tool.
-- [Localizable.strings](https://github.com/cristibaluta/Localizable.strings) - Easily edit Localizable.strings files.
-- [Localizations](https://github.com/e7711bbear/Localizations) - Localize your iOS and Mac apps.
-- [LocalRadio](https://github.com/dsward2/LocalRadio) - A macOS internet radio app.
-- [localSites](https://github.com/plan44/localSites) - macOS menubar app for managing local websites.
-- [Logic Pro](https://www.apple.com/logicpro) - Professional music production.
-- [Logseq](https://logseq.com) - Note-taking app with a focus on non-linear thinking.
-- [Lorain](https://lo.cafe/lorain) - Weather app.
-- [LosslessCut](https://github.com/mifi/losslesscut) - The swiss army knife of lossless video/audio editing.
-- [Low Tech Guys](https://lowtechguys.com/rcmd) - Tech-related YouTube channel.
-- [Ludwig](https://ludwig.guru) - Linguistic search engine.
-- [LuLu](https://github.com/objectivesee/LuLu) - The free, open-source macOS firewall.
-- [Lunar](https://github.com/alin23/lunar) - Intelligent adaptive brightness for external displays.
-- [Lunar](https://lunar.fyi) - Display brightness control app.
-- [Lyricism](https://github.com/lyc2345/Lyricism) - A macOS app for displaying lyrics for the currently playing song.
-- [Lyricsify](https://github.com/mamal72/lyricsifymac) - A simple macOS app for fetching and displaying lyrics.
-- [LyricsX](https://github.com/ddddxxx/LyricsX) - Lyrics on your desktop.
+- [Logseq](https://logseq.com) {crossapp}  - Note-taking app with a focus on non-linear thinking.
+
 - [m-cli](https://github.com/rgcr/mcli) - Swiss Army Knife for macOS.
 - [mac2imgur](https://github.com/mileswd/mac2imgur) - A simple Imgur uploader for macOS.
 - [MacBartender](https://www.macbartender.com) - Organize menu bar icons.
