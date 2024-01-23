@@ -55,112 +55,37 @@
 - [Bruno](https://www.usebruno.com) {crossapp} - Postman alternative
 - [Buttercup](https://buttercup.pw)  {crossapp} - Password manager.
 
-- [Cacher](https://www.cacher.io) - Code snippet organizer.
-- [Cakebrew](https://github.com/brunophilipe/Cakebrew) - Manage Homebrew formulae through an app interface.
+- [Cacher](https://www.cacher.io) {crossapp} - Code snippet organizer.
 - [Cakebrew](https://www.cakebrew.com) - Homebrew GUI app.
-- [Calabash Launcher](https://github.com/xing/calabashlauncher) - A macOS app to launch Calabash scripts easily.
-- [Calculeta](https://github.com/varol/Calculeta) - Scientific calculator app for macOS.
-- [Calibre](http://calibreebook.com) - E-book management tool.
-- [Calibre](https://github.com/kovidgoyal/calibre) - E-book library management application.
-- [CAM](https://github.com/hanayik/CAM) - A macOS camera platform with support for video motion detection.
-- [Canary Mail](https://canarymail.io) - Email client.
-- [CanSnippet](https://www.cansnippet.com) - Code snippet manager.
-- [Caprine](https://github.com/sindresorhus/caprine) - Elegant Facebook Messenger desktop app.
+- [Calibre](https://calibre-ebook.com) {crossapp} - E-book library management application.
+- [Canary Mail](https://canarymail.io) {crossapp} - Email client.
+- [CanSnippet](https://www.cansnippet.com) {10$} - Code snippet manager.
+- [Caprine](https://sindresorhus.com/caprine/) {crossapp} - Elegant Facebook Messenger desktop app.
 - [Caption](https://github.com/LumingYin/Caption) - Simple and beautiful Markdown editor for macOS.
-- [CaptuocrToy](https://github.com/sfragrance/CaptuocrToy) - Screen capture OCR tool.
-- [Carbonite Backup](https://www.carbonite.com/learn/howtobackupmac) - Cloud backup service.
-- [Carol](https://github.com/AnaghSharma/Carol) - A minimal and beautiful lyrics app.
-- [Catch](https://github.com/mipstian/catch/) - A simple, self-hosted pastebin service with an API.
-- [ccat](https://github.com/jingweno/ccat) - Colorizing `cat`.
 - [cdto](https://github.com/jbtule/cdto) - Finder Toolbar app to open the current directory in the Terminal.
-- [Cerebro](https://cerebroapp.com) - Open-source productivity booster.
-- [Cerebro](https://github.com/cerebroapp/cerebro) - Open-source productivity booster with a built-in search function.
-- [Charles Proxy](https://www.charlesproxy.com) - Web debugging proxy application.
-- [ChefInspector](https://github.com/Yasumoto/ChefInspector) - A macOS application that gives you information about your Chef runs.
-- [Chime](https://github.com/ChimeHQ/Chime) - Amazon Chime SDK client.
-- [chipmunk](https://github.com/esrlabs/chipmunk) - Automotive logging tool for desktop and mobile.
-- [ChitChat](https://github.com/stonesam92/ChitChat) - A native Mac app wrapper for WhatsApp Web.
-- [CHM Reader](https://www.hewbo.com/chmreader.html) - CHM file reader.
+- [Cerebro](https://cerebroapp.com) {crossapp} - Open-source productivity booster.
+- [Chime](https://www.chimehq.com/) - An open source editor for macOS
 - [Chmox](https://chmox.sourceforge.net) - CHM file viewer.
-- [Choosy](https://www.choosyosx.com) - Smart app and browser switcher.
-- [ChordDetector](https://github.com/cemolcay/ChordDetector) - Chord detection app for musicians.
-- [Chrome MySQL Admin](https://github.com/yoichiro/chrome_mysql_admin) - MySQL database admin viewer in Chrome.
-- [Chromium](https://chromium.googlesource.com/chromium/src) - Open-source web browser project.
-- [Chromium](https://www.chromium.org/Home) - Open-source web browser project.
-- [ClamAV](https://www.clamav.net) - Antivirus software.
-- [ClashX](https://github.com/yichengchen/clashX) - A rule-based tunnel in Go.
-- [Cleaner One](https://cleanerone.trendmicro.com) - Mac cleaner and security tool.
-- [CleanMe](https://github.com/KevinDeKoninck/CleanMe) - Simple and automated macOS cleaning app.
-- [CleanMe](https://kevindekoninck.github.io/CleanMe) - macOS system cleaner.
-- [CleanMyMac](https://macpaw.com) - Mac cleaning and optimization tool.
-- [CleanShot](https://getcleanshot.com) - Screenshot utility for macOS.
-- [Clearview](http://www.clearviewreader.com/clearview) - eBook reader.
-- [Clementine](https://github.com/clementineplayer/Clementine) - Modern music player and library organizer.
-- [cli](https://github.com/cli/cli) - GitHub CLI tool.
-- [client](https://github.com/gingko/client) - A tree-based note-taking app for organizing your thoughts.
+- [Chromium](https://www.chromium.org/Home) {crossapp}  - Open-source web browser project.
+- [ClamAV](https://www.clamav.net) {crossapp}  - Antivirus software.
 - [Clipboard](https://getclipboard.app) - Clipboard manager.
 - [ClipboardClear](https://github.com/LumingYin/ClipboardClear) - A macOS app to clear your clipboard with one click.
-- [ClipMenu](https://github.com/naotaka/ClipMenu) - Clipboard history manager for macOS.
 - [ClipMenu](https://www.clipmenu.com) - Clipboard manager.
 - [ClipTools](https://macmost.com/cliptools) - Clipboard enhancement tools.
-- [Clipy](https://clipyapp.com) - Clipboard extension app.
-- [Clipy](https://github.com/Clipy/Clipy) - Clipboard extension app for macOS.
-- [Cloaker](https://github.com/spieglt/cloaker) - Minimalist VPN solution for the macOS menu bar.
-- [Clocker](https://github.com/n0shake/Clocker) - macOS app to help you keep track of different time zones.
-- [CloudApp](https://www.getcloudapp.com) - Visual communication platform.
-- [CloudyTabs](https://github.com/josh/CloudyTabs) - Simple menu bar app for listing iCloud Tabs.
-- [cmatri](https://github.com/abishekvashok/cmatri) - Matrix multiplication in C.
-- [CMus](https://cmus.github.io) - Music player.
-- [CocoaRestClient](https://github.com/mmattozzi/cocoarestclient) - A free, open-source, native Apple macOS app for testing HTTP/REST endpoints.
-- [CocoaRestClient](https://mmattozzi.github.io/cocoarestclient) - HTTP client for testing APIs.
-- [CoconutBattery](https://www.coconutflavour.com/coconutbattery) - Battery health monitoring app.
+- [Clipy](https://clipy-app.com) - Clipboard extension app for macOS.
 - [CodeEdit](https://github.com/CodeEditApp/CodeEdit) - Code editor for macOS.
-- [CodeKit](https://codekitapp.com) - Web development tool.
-- [CodeRunner](https://coderunnerapp.com) - Code editor and runner.
-- [Cog](https://bitbucket.org/losnoco/cog/src) - Audio player for macOS.
-- [CogX](https://cogx.org) - Organizational tool.
 - [CoinBar](https://github.com/adamwaite/CoinBar) - Cryptocurrency prices in the macOS menu bar.
-- [CollectionViewPagingLayout](https://github.com/amirdew/CollectionViewPagingLayout) - UICollectionViewLayout for creating paged horizontal layouts.
-- [Color Picker](https://colorpicker.fr) - Color picker app.
+- [Color Picker](https://colorpicker.fr) {crossapp}  - Color picker app.
 - [ColorSet](https://github.com/DigiDNA/ColorSet) - Generate color palettes from images.
-- [Commander One](https://macitbetter.com) - Dual-panel file manager.
-- [Conduktor](https://www.conduktor.io) - Kafka desktop client.
-- [Condution](https://github.com/ShabangSystems/Condution) - A different kind of time tracker.
-- [Conferences.digital](https://github.com/zagahr/Conferences.digital) - Watch developer conference videos on your Mac.
-- [Console](https://github.com/macmade/Console) - macOS console application with additional features.
-- [Contexts](https://contexts.co) - Window manager.
-- [ControlPlane](https://github.com/dustinrue/ControlPlane) - Context-aware computing for macOS.
-- [coolretroterm](https://github.com/Swordfish90/coolretroterm) - A good looking terminal emulator that mimics the old cathode display.
-- [Copay](https://github.com/bitpay/copay) - Secure, shared Bitcoin wallet.
-- [CopyQ](https://github.com/hluk/CopyQ) - Advanced clipboard manager with editing and scripting features.
-- [CopyQ](https://hluk.github.io/CopyQ) - Clipboard manager with advanced features.
-- [corectl.app](https://github.com/TheNewNormal/corectl.app) - CoreOS VM app for macOS.
-- [CoreDataEditor](https://github.com/ChristianKienle/CoreDataEditor) - Core Data model editor.
-- [corelocationcli](https://github.com/fulldecent/corelocationcli) - Get your location using the macOS CLI.
-- [coreososx](https://github.com/TheNewNormal/coreososx) - Wrapper for osx.
-- [CornerCal](https://github.com/ekreutz/CornerCal) - macOS menubar calendar app.
-- [Cornerstone](http://www.zennaware.com/cornerstone) - Subversion (SVN) client.
-- [CoronaTracker](https://github.com/MhdHejazi/CoronaTracker) - Coronavirus tracker app for macOS.
-- [Correo](https://github.com/amitmerchant1990/correo) - A fast and free email client for macOS.
+- [CopyQ](https://hluk.github.io/CopyQ/) {crossapp} - Advanced clipboard manager with editing and scripting features.
 - [CotEditor](https://coteditor.com) - Lightweight code editor.
-- [CotEditor](https://github.com/coteditor/CotEditor) - Lightweight text editor for macOS.
 - [Couleurs](https://couleursapp.com) - Color palette manager.
-- [CPod](https://github.com/z/CPod) - A simple, beautiful podcast app for Windows and macOS.
-- [Craft](https://www.craft.do) - Document editor for collaborative work.
-- [Createdmg](https://github.com/sindresorhus/createdmg) - Create a good-looking DMG for your macOS app in seconds.
 - [Crunch](https://github.com/chrissimpkins/Crunch) - Insane(ly slow but wicked good) PNG image optimization.
 - [Crypter](https://github.com/HR/Crypter) - A simple, privacy-focused, encrypt/decrypt app.
-- [cryptobar](https://github.com/geraldoramos/cryptobar) - A simple cryptocurrency ticker for your menu bar.
-- [Cryptode](https://github.com/riboseinc/cryptodemac) - OpenPGP encryption for macOS.
-- [Cryptomator](https://cryptomator.org) - File encryption for the cloud.
-- [cryptomator](https://github.com/cryptomator/cryptomator) - Multi-platform transparent client-side encryption of your files in the cloud.
-- [ctuner](https://github.com/billthefarmer/ctuner) - Chromatic tuner for your Mac.
-- [CubicBezier](https://github.com/isaced/CubicBezier) - A simple macOS app for creating and testing cubic bezier curves.
-- [Cursor](https://www.cursor.sh/) - Multilingual typing for Mac.
-- [CursorSense](https://www.plentycom.jp/en/cursorsense/index.html) - Customizable mouse acceleration for Mac.
-- [Cutter](https://cutter.re) - Reverse engineering platform.
-- [Cyberduck](https://cyberduck.io) - FTP, SFTP, WebDAV, and cloud storage browser.
-- [cyberduck](https://github.com/iteratech/cyberduck) - A libre server and cloud storage browser for Mac and Windows.
+- [Cryptomator](https://cryptomator.org)  {crossapp}- File encryption for the cloud.
+- [Cutter](https://cutter.re) {crossapp} - Reverse engineering platform.
+- [Cyberduck](https://cyberduck.io) {crossapp} - FTP, SFTP, WebDAV, and cloud storage browser.
+
 - [DaisyDisk](https://daisydiskapp.com) - Disk space analyzer.
 - [Darkmode](https://github.com/sindresorhus/darkmode) - Toggle the dark mode from the menu bar.
 - [Dash](https://kapeli.com/dash) - API documentation browser and code snippet manager.
