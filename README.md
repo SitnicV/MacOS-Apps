@@ -85,104 +85,48 @@
 - [Cryptomator](https://cryptomator.org)  {crossapp}- File encryption for the cloud.
 - [Cutter](https://cutter.re) {crossapp} - Reverse engineering platform.
 - [Cyberduck](https://cyberduck.io) {crossapp} - FTP, SFTP, WebDAV, and cloud storage browser.
-
-- [DaisyDisk](https://daisydiskapp.com) - Disk space analyzer.
-- [Darkmode](https://github.com/sindresorhus/darkmode) - Toggle the dark mode from the menu bar.
-- [Dash](https://kapeli.com/dash) - API documentation browser and code snippet manager.
-- [Dashlane](https://www.dashlane.com) - Password manager.
-- [Datamosh](https://github.com/maelswarm/Datamosh) - A tool for datamoshing videos.
-- [DatWeatherDoe](https://github.com/inderdhir/DatWeatherDoe) - A menubar weather app.
-- [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) - Video editing and color correction software.
+- [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) {crossapp} - Video editing and color correction software.
 - [Day One](https://dayoneapp.com) - Journaling app.
-- [Day-O 2](https://www.shauninman.com/archive/2016/10/20/day_o_2_mac_menu_bar_clock) - Menu bar clock replacement.
-- [DBeaver](https://dbeaver.io) - Universal database tool.
-- [dbeaver](https://github.com/dbeaver/dbeaver) - Free universal database tool and SQL client.
-- [dbgate](https://github.com/dbgate/dbgate) - Database manager and SQL editor for SQLite, MySQL, SQL Server, and PostgreSQL.
-- [Deadbolt](https://github.com/alichtman/deadbolt) - A macOS app for creating strong, unique passwords.
+- [DBeaver](https://dbeaver.io)  {crossapp} - Universal database tool.
+- [dbgate](https://dbgate.org) {crossapp} - Database manager and SQL editor for SQLite, MySQL, SQL Server, and PostgreSQL.
+- [Deadbolt](https://github.com/alichtman/deadbolt) {crossapp} - A macOS app for creating strong, unique passwords.
 - [DecoIDE](https://www.decoide.org) - React Native IDE.
-- [Deep Link Buddy](https://deeplinkbuddy.com) - Deep linking tool.
-- [DeepL](https://www.deepl.com/en/app) - Neural machine translation.
-- [deezplayer](https://github.com/imanel/deezplayer) - A Deezer desktop app for Windows, macOS, and Linux.
-- [Default Folder X](https://www.stclairsoft.com/DefaultFolderX/index.html) - Enhanced Open and Save dialogs.
+- [DeepL](https://www.deepl.com/en/app) {crossapp} - Neural machine translation.
 - [Dejal Timeout](https://www.dejal.com/timeout) - Break reminder app.
-- [dejalu](https://github.com/dinhvh/dejalu) - Fast and flexible email client.
-- [Deluge](https://delugetorrent.org) - BitTorrent client.
-- [deluge](https://github.com/deluge/deluge) - BitTorrent client.
-- [Desktop Wallpaper Switcher](https://github.com/VioletGiraffe/desktopwallpaperswitcher) - A simple desktop wallpaper switcher for macOS.
-- [desktop](https://github.com/desktop/desktop) - GitHub Desktop app.
-- [DesktopProfiles](https://github.com/mamiksik/DesktopProfiles) - macOS app for managing display profiles.
-- [devdocsmacos](https://github.com/dteoh/devdocsmacos) - Developer documentation browser for macOS.
+- [desktop](https://github.com/desktop/desktop) {crossapp} - GitHub Desktop app.
 - [DevToysMac](https://github.com/ObuchiYuki/DevToysMac) - A macOS app for developers to help them deal with screenshots.
-- [DevUtils](https://devutils.com) - Developer tools collection.
-- [DevUtilsApp](https://github.com/DevUtilsApp/DevUtilsapp) - Utilities for developers.
-- [Diagnostics](https://github.com/macmade/Diagnostics) - Diagnostics application for macOS.
-- [Dictionary](https://support.apple.com/engb/guide/dictionary/welcome/mac) - Built-in dictionary on macOS.
-- [DiffMerge](https://sourcegear.com/diffmerge) - File and folder comparison tool.
+- [DiffMerge](https://sourcegear.com/diffmerge) {crossapp} - File and folder comparison tool.
 - [Diffusion Bee](https://diffusionbee.com) - API documentation viewer.
-- [DingTalk](https://www.dingtalk.com/en) - Communication and collaboration platform.
+- [DingTalk](https://www.dingtalk.com/en) {crossapp} - Communication and collaboration platform.
 - [DisableMonitor](https://github.com/Eun/DisableMonitor) - Disable or enable a monitor on your Mac.
-- [Discord](https://discordapp.com) - Chat and communication platform.
-- [DiskDrill](https://www.cleverfiles.com/data-recovery-software.html) - Recover your deleted files
-- [DiskWarrior](http://www.alsoft.com/DiskWarrior) - Disk repair utility.
-- [DisplayBuddy](https://displaybuddy.app) - Multi-monitor utility.
-- [DisplayMenu](https://github.com/Kwpolska/DisplayMenu) - A macOS app for managing display resolutions.
+- [Discord](https://discord.com) {crossapp} - Chat and communication platform.
+- [DiskDrill](https://www.cleverfiles.com/data-recovery-software.html)  {crossapp} - - Recover your deleted files
+- [DisplayBuddy](https://displaybuddy.app) {crossapp}  - Multi-monitor utility.
 - [Diurna](https://github.com/ngquerol/Diurna) - A command-line tool that turns your backlight on or off.
-- [Divvy](https://mizage.com/divvy) - Window management app.
-- [dnote](https://github.com/dnote/dnote) - A simple command line notebook for programmers.
-- [Dnote](https://www.getdnote.com) - Note-taking app for developers.
-- [dnsheaven](https://github.com/greenboxal/dnsheaven) - A free DNS filter for macOS.
-- [Docker](https://www.docker.com) - Platform for containerized applications.
+- [Docker](https://www.docker.com) {crossapp} - Platform for containerized applications.
 - [DockSeparator](https://github.com/DeromirNeves/DockSeparator) - A simple app to add separators to your macOS Dock.
 - [Does it ARM](https://doesitarm.com/applesiliconapptest) - List of apps compatible with Apple Silicon.
-- [dolphin](https://github.com/dolphinemu/dolphin) - GameCube and Wii emulator.
-- [Doughnut](https://doughnutapp.com) - Time tracking app.
-- [Doughnut](https://github.com/dyerc/Doughnut) - Create beautiful, sweet doughnut charts for your Swift app.
-- [Downie](https://software.charliemonroe.net/downie.php) - Video downloader.
+- [Doughnut](https://doughnutapp.com) - Uncluttered podcast listening app for Mac.
 - [Download Manager](http://mac.eltima.com/downloadmanager.html) - Download manager for macOS.
-- [Download Shuttle](https://fiplab.com/apps/downloadshuttleformac) - Download manager.
 - [Dozer](https://github.com/Mortennn/Dozer) - Hide status bar icons on macOS.
-- [drawiodesktop](https://github.com/jgraph/drawiodesktop) - A native macOS app for diagrams and flowcharts.
-- [Dropbox](https://www.dropbox.com) - Cloud storage service.
-- [DropPoint](https://github.com/GameGodS3/DropPoint) - macOS status bar app for sharing files via AirDrop.
-- [Ducklet](https://ducklet.app) - DuckDNS client for macOS.
-- [dupeguru](https://github.com/arsenetar/dupeguru/) - Find duplicate files on your computer.
-- [DuplicateFinder](https://github.com/powerwolf543/DuplicateFinder) - A macOS app to find and remove duplicate files.
-- [DynamicDarkMode](https://github.com/ApolloZhu/DynamicDarkMode) - Automatic Dark Mode for any website.
-- [Eagle](https://en.eagle.cool) - Lightweight and fast image viewer.
-- [Easydict](https://github.com/tisfeng/Easydict) - A simple, lightweight, and fast macOS dictionary application.
-- [ECheck](https://github.com/josejuanqm/ECheck) - ECheck for iOS apps.
-- [Eclipse](https://www.eclipse.org) - Integrated development environment (IDE).
+- [Dropbox](https://www.dropbox.com) {crossapp} - Cloud storage service.
+- [DropPoint](https://github.com/GameGodS3/DropPoint) {crossapp} - macOS status bar app for sharing files via AirDrop.
+- [Eagle](https://en.eagle.cool) {crossapp} {30$}- Lightweight and fast image viewer and organiser.
+- [Eclipse](https://www.eclipse.org) {crossapp} - Integrated development environment (IDE).
 - [Edison Mail](https://mail.edison.tech/mac) - Email client.
-- [electrino](https://github.com/pojala/electrino) - Desktop runtime for apps built on web technologies, using the system's own web browser engine.
 - [ElectroCRUD](https://garrylachman.github.io/ElectroCRUD) - CRUD operations generator for MongoDB.
-- [Electron](http://electron.atom.io) - Framework for building cross-platform desktop apps.
-- [Electron](https://electron.atom.io) - Framework for building cross-platform desktop apps.
-- [electronicwechat](https://github.com/geeeeeeeeek/electronicwechat) - Unofficial WeChat client for macOS.
-- [ElectronMail](https://github.com/vladimiry/ElectronMail) - Unofficial desktop client for ProtonMail and Tutanota.
+- [Electron](http://electron.atom.io) {NODEjs}- Framework for building cross-platform desktop apps.
 - [Element](https://element.io) - Secure and decentralized communication.
-- [Element](https://github.com/vectorim/elementweb) - Web/Desktop/Lite apps for Matrix, the decentralized communication network.
 - [Elmedia Player](https://mac.eltima.com/mediaplayer.html) - Multimedia player.
 - [Elytra](https://elytra.app) - RSS reader.
-- [Emacs for macOS](https://www.emacswiki.org/emacs/EmacsForMacOS) - Emacs text editor.
 - [EmailMe](https://emailmeapp.net) - Email reminder app.
 - [eme](https://github.com/egoist/eme) - Terminal markdown viewer.
-- [Enpass](https://www.enpass.io) - Password manager.
-- [EnvPane](https://github.com/hschmidt/EnvPane) - An environmental variables manager for macOS.
-- [epochflipclockscreensaver](https://github.com/chrstphrknwtn/epochflipclockscreensaver) - A flip clock screensaver.
 - [eqMac](https://github.com/bitgapp/eqMac) - Audio equalizer for macOS.
-- [Equinox](https://github.com/rlxone/Equinox) - Cross-platform JavaScript bundle editor.
-- [esa](https://esa.io) - Knowledge sharing and collaboration tool.
-- [espanso](https://github.com/espanso/espanso) - Cross-platform text expander written in Rust.
-- [Espresso](https://espressoapp.com) - Web development editor.
-- [Etcher](https://github.com/balenaio/etcher) - Flash OS images to SD cards & USB drives.
-- [Etcher](https://www.balena.io/etcher) - SD card burner tool.
-- [eul](https://github.com/gaosun/eul) - macOS status monitoring app.
-- [Eureka](https://github.com/simeg/eureka) - A free macOS status bar app for your Hue lights.
-- [Evernote](https://evernote.com) - Note-taking app.
-- [ExifCleaner](https://exifcleaner.com) - EXIF metadata remover.
-- [exifcleaner](https://github.com/szTheory/exifcleaner) - Clean and remove Exif data from images.
+- [Evernote](https://evernote.com) {crossapp} - Note-taking app.
+- [ExifCleaner](https://exifcleaner.com) {crossapp} - EXIF metadata remover.
 - [EyeTimer](https://adelmaer.com/eyetimer) - Break reminder app.
 - [Ezip](http://ezip.awehunt.com) - File compression tool.
+
 - [f.lux](https://justgetflux.com) - Adjusts your computer's display to adapt to the time of day.
 - [FaceData](https://github.com/xiaohk/FaceData) - A macOS app to capture facial expressions data.
 - [Fanny](https://github.com/DanielStormApps/Fanny) - Monitor your Mac's fan speed and CPU temperature.
