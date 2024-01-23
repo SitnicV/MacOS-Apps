@@ -127,118 +127,56 @@
 - [EyeTimer](https://adelmaer.com/eyetimer) - Break reminder app.
 - [Ezip](http://ezip.awehunt.com) - File compression tool.
 
-- [f.lux](https://justgetflux.com) - Adjusts your computer's display to adapt to the time of day.
-- [FaceData](https://github.com/xiaohk/FaceData) - A macOS app to capture facial expressions data.
-- [Fanny](https://github.com/DanielStormApps/Fanny) - Monitor your Mac's fan speed and CPU temperature.
-- [Fantastical](https://flexibits.com/fantastical) - Calendar app.
-- [far2l](https://github.com/elfmz/far2l) - Linux port of FAR Manager.
-- [FastoNoSQL](https://fastonosql.com) - GUI manager for NoSQL databases.
-- [FastoRedis](https://fastoredis.com) - Redis management tool.
-- [fbmacmessenger](https://github.com/rsms/fbmacmessenger) - Facebook Messenger for Mac.
+- [f.lux](https://justgetflux.com) {crossapp} - Adjusts your computer's display to adapt to the time of day.
 - [Feedy](https://krillapps.com/feedy) - RSS reader.
-- [Ferdium](https://ferdium.org) - App for monitoring fermentation.
-- [FFmpeg GUI - FFWorks](https://www.ffworks.net) - Video and audio encoding app.
-- [FFmpeg](https://ff.1zilc.top) - Collection of libraries and tools to handle multimedia content.
+- [Ferdium](https://ferdium.org) - Social apps connector.
 - [Fig](https://fig.io) - Terminal app for Docker.
-- [Figma](https://www.figma.com) - Collaborative design tool.
-- [Fileside](https://www.fileside.app) - File management and productivity tool.
-- [FilterShop](https://github.com/KrisYu/FilterShop) - A macOS app for creating Instagram-like photo filters.
-- [FinderFi](https://synappser.github.io/apps/finderfi) - Finder extension for managing files.
+- [Figma](https://www.figma.com) {crossapp} - Collaborative design tool.
 - [FinderGo](https://github.com/onmyway133/FinderGo) - Open terminal quickly from Finder.
-- [finicky](https://github.com/johnste/finicky) - A macOS app for customizing which browser to start.
 - [Finicky](https://johnste.github.io/finicky) - Web browser helper app.
-- [Firefox](https://www.firefox.com) - Web browser by Mozilla.
+- [Firefox](https://www.firefox.com) {crossapp} - Web browser by Mozilla.
 - [FiScript](https://github.com/Mortennn/FiScript) - Execute custom scripts from the macOS context menu.
 - [Fish Shell](https://fishshell.com) - User-friendly command-line shell.
-- [flameshot](https://github.com/flameshotorg/flameshot) - Powerful yet simple to use screenshot software.
-- [Flinto](https://www.flinto.com) - Prototyping tool.
-- [FloatCoin](https://github.com/kaunteya/FloatCoin) - macOS screensaver that displays cryptocurrency prices.
-- [Flow](http://fivedetails.com/flow) - Task management app.
-- [Fluor](https://github.com/Pyroh/Fluor) - A tool to adjust the color temperature of your display based on the time of day.
-- [Flycut](https://github.com/TermiT/Flycut) - Clean and simple clipboard manager for developers (duplicate entry).
-- [Flycut](https://github.com/TermiT/flycut) - Clean and simple clipboard manager for developers.
-- [FlyingCarpet](https://github.com/spieglt/flyingcarpet) - A minimal VPN solution.
-- [fman](https://fman.io) - Dual-pane file manager.
-- [Focalboard](https://www.focalboard.com) - Open-source alternative to Trello.
-- [Focus](https://meaningfulthings.com/focus) - Pomodoro timer.
+- [Flow](https://fivedetails.com/) - fast, and reliable FTP + SFTP client.
+- [FlyingCarpet](https://github.com/spieglt/flyingcarpet) {crossapp} - Send and receive files between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi
+- [fman](https://fman.io) {crossapp} - Dual-pane file manager.
+- [Focalboard](https://www.focalboard.com) {crossapp} - Open-source alternative to Trello.
 - [Focused Work](https://focusedwork.app) - App for blocking distracting websites.
 - [Folders](https://foldersapp.dev) - Organize files and folders.
-- [FontForge](https://fontforge.github.io) - Font editor.
+- [FontForge](https://fontforge.github.io) {crossapp} - Font editor.
 - [ForkLift](https://binarynights.com/forklift) - Dual-pane file manager.
-- [Foxmail](https://www.foxmail.com/mac/en) - Email client.
-- [Framer](https://framerjs.com) - Interactive design tool.
-- [Franz](https://github.com/meetfranz/franz) - Messaging app for WhatsApp, Slack, Telegram, and more.
-- [Franz](https://meetfranz.com) - Messaging app for WhatsApp, Slack, and more.
-- [freac](https://github.com/enzo1982/freac) - Free Audio Converter.
-- [Free Download Manager](http://www.freedownloadmanager.org) - Download manager and accelerator.
-- [FreeCAD](https://github.com/FreeCAD/FreeCAD) - A parametric 3D CAD modeler.
+- [Foxmail](https://www.foxmail.com/mac/en)  {crossapp} - Email client.
+- [Framer](https://framerjs.com)  {webbased} - Interactive design tool.
+- [Franz](https://meetfranz.com) {crossapp} - Messaging app for WhatsApp, Slack, and more.
+- [Free Download Manager](http://www.freedownloadmanager.org) {crossapp}  - Download manager and accelerator.
+- [FreeCAD](https://www.freecad.org) {crossapp} - A parametric 3D CAD modeler.
 - [Freehand](https://github.com/wddwycc/Freehand) - A minimal note-taking app for macOS.
 - [FreeMacSoft](https://freemacsoft.net) - Collection of free macOS apps.
-- [FreeTube](https://freetubeapp.io) - Privacy-focused YouTube player.
-- [FromScratch](https://github.com/Kilian/fromscratch) - Auto-saving scratchpad with a simple interface.
-- [fselect](https://github.com/jhspetersson/fselect) - Find files with SQL-like queries.
+- [FreeTube](https://freetubeapp.io) {crossapp}  - Privacy-focused YouTube player.
+- [FromScratch](https://fromscratch.rocks/) {crossapp} - Auto-saving scratchpad with a simple interface.
 - [FSNotes](https://fsnot.es) - Note-taking app with support for Markdown.
-- [fsnotes](https://github.com/glushchenko/fsnotes) - File System Notes - the notes manager for macOS and iOS.
-- [Funky](https://github.com/thecatalinstan/Funky) - A markdown text editor that aims to be both lightweight and visually appealing.
-- [Galeri](https://github.com/michealparks/galeri) - A fast, free, and open-source image gallery app for macOS.
-- [gaphor](https://github.com/gaphor/gaphor) - UML and SysML modeling application.
+- [gaphor](https://github.com/gaphor/gaphor) {crossapp} - UML and SysML modeling application.
 - [GarageBand](https://www.apple.com/mac/garageband) - Music creation studio.
 - [Gas Mask](https://github.com/2ndalpha/gasmask) - Hosts file manager for macOS.
-- [GetIt](https://github.com/KevinDeKoninck/GetIt) - A macOS app to easily install and manage software packages.
-- [gfxCardStatus](https://gfx.io) - GPU monitoring tool.
 - [GifCapture](https://github.com/onmyway133/GifCapture) - Capture GIFs from your screen.
-- [Gifcurry](https://github.com/lettier/gifcurry) - Video to GIF maker with a text-based user interface.
-- [Gifox](https://gifox.app) - Animated GIF recorder and editor.
+- [Gifcurry](https://github.com/lettier/gifcurry) {crossapp} - Video to GIF maker with a text-based user interface.
 - [Gifski](https://github.com/sindresorhus/Gifski) - Convert videos to high-quality GIFs on your Mac.
-- [GifskiApp](https://github.com/sindresorhus/gifskiapp) - Simple Mac app for the Gifski CLI.
 - [Gifted](https://github.com/vdel26/gifted) - Open-source GIF player for macOS.
-- [GIMP](https://github.com/GNOME/gimp) - The GNU Image Manipulation Program.
-- [GIMP](https://www.gimp.org) - Open-source image editor.
-- [Git Fork](https://gitfork.com) - Git client.
-- [Git Interactive Rebase Tool](https://github.com/MitMaro/gitinteractiverebasetool) - A simple tool for interactively rebasing Git commits.
-- [Git Tower](https://www.gittower.com) - Git client.
-- [Git](https://rowanj.github.io/git) - Distributed version control system.
-- [gitahead](https://github.com/gitahead/gitahead/) - A Git GUI for managing Git repositories.
+- [GIMP](https://www.gimp.org) {crossapp}  - Open-source image editor.
+- [gitahead](https://github.com/gitahead/gitahead/) {crossapp} - A Git GUI for managing Git repositories.
 - [Gitbar](https://github.com/Shikkic/gitbar) - Open source taskbar app for Git.
-- [GitBlamePR](https://github.com/maoyama/GitBlamePR) - GitHub Pull Request Git blame details on hover.
-- [GitCola](https://gitcola.github.io) - Git GUI.
-- [Gitee](https://github.com/Nightonke/Gitee) - macOS client for Gitee, the Chinese alternative to GitHub.
-- [GitFinder](https://gitfinder.com) - Git client.
-- [GitFox](https://www.gitfox.app) - Git client.
-- [GitHub Desktop](https://desktop.github.com) - Git GUI for GitHub.
+- [GitHub Desktop](https://desktop.github.com) {crossapp} - Git GUI for GitHub.
 - [GitHub Hub](https://hub.github.com) - Command-line wrapper for Git.
-- [GitHub Matrix Screensaver](https://github.com/winterbe/githubmatrixscreensaver) - A Matrix-themed GitHub contribution graph screensaver for macOS.
-- [GithubContributions](https://github.com/remirobert/Githubcontributions) - GitHub Contributions iOS App.
-- [GithubListener](https://github.com/ad/GithubListener) - GitHub notifications app for macOS.
-- [githubnotify](https://github.com/erik/githubnotify) - GitHub notification menubar app.
-- [Gitify](https://github.com/manosim/gitify) - GitHub notifications on your menu bar.
-- [GitKraken](https://www.gitkraken.com) - Git GUI client.
-- [GitSync](https://github.com/eonist/GitSync) - MacOS app that syncs your local repositories with remotes.
-- [Gitter](https://gitter.im) - Chat and networking platform for developers.
+- [Gitify](https://www.gitify.io/) - GitHub notifications on your menu bar.
+- [GitKraken](https://www.gitkraken.com) {crossapp}  - Git GUI client.
 - [GitUp](http://gitup.co) - Git interface.
-- [GitUp](https://github.com/gitup/GitUp) - The Git interface you've been missing all your life.
-- [gitupdate](https://github.com/nikitavoloboev/gitupdate) - A macOS app to update git repositories in one click.
-- [gitx](https://github.com/gitx/gitx) - A simple Git GUI for Mac with Finder integration.
-- [GitX](https://github.com/pieter/gitx) - A git GUI made for Mac (OSX).
-- [Glances](https://github.com/nicolargo/glances) - An eye on your system.
-- [GNU Gatekeeper (GnuGk)](https://github.com/willamowius/gnugk) - Open Source H.323 Gatekeeper.
 - [Go2Shell](https://itunes.apple.com/app/go2shell/id445770608?mt=12) - Opens a terminal window to the current directory in Finder.
-- [GokuRakuJoudo](https://github.com/yqrashawn/GokuRakuJoudo) - Assist you to write code and manage your snippets.
-- [Goob](https://goobapp.com) - Weather app.
-- [goofy](https://github.com/danielbuechele/goofy) - Facebook Messenger client for macOS.
-- [Google Assistant Unofficial Desktop Client](https://github.com/MelvinAbraham/GoogleAssistantUnofficialDesktopClient) - Unofficial desktop client for Google Assistant.
-- [Google Chrome](https://www.google.com/chrome) - Web browser by Google.
-- [GoogleAlloForDesktop](https://github.com/kelyvin/GoogleAlloForDesktop) - Unofficial Google Allo desktop client for macOS.
-- [GPM](https://github.com/mtgto/GPM) - macOS app to manage your Git project's performance.
-- [gpodder](https://github.com/gpodder/gpodder) - A cross-platform podcast client.
+- [Goob](https://goobapp.com) - Noite taking app.
+- [Google Chrome](https://www.google.com/chrome) {crossapp} - Web browser by Google.
 - [GrafBase](https://grafbase.com) - Database app.
-- [Grammarly](https://app.grammarly.com) - Writing assistant.
-- [GrandPerspectiv](https://grandperspectiv.sourceforge.net) - Disk space visualizer.
-- [GrandPerspective](https://sourceforge.net/projects/grandperspectiv/files/grandperspective) - Disk usage visualizer.
+- [Grammarly](https://app.grammarly.com) {crossapp} - Writing assistant.
 - [Gray](https://github.com/zenangst/Gray) - A macOS app to change the color of your folder icons.
-- [GrayscaleMode](https://github.com/rkbhochalya/grayscalemode) - macOS app to enable grayscale mode.
-- [GroupMe](https://github.com/dcrousso/GroupMe) - Unofficial GroupMe app for macOS.
-- [gSwitch](https://github.com/CodySchrank/gSwitch) - GPU switcher for MacBook.
+
 - [HackerMenu](https://github.com/owenthereal/hackermenu) - Hacker News in the macOS menu bar.
 - [hammerspoon](https://github.com/Hammerspoon/hammerspoon) - Staggeringly powerful macOS desktop automation with Lua.
 - [Hammerspoon](https://www.hammerspoon.org) - Desktop automation utility.
