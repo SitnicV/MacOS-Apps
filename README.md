@@ -38,10 +38,6 @@
 - [Aurvan SQLight](https://aurvan.com/sqlight) - SQLite database manager tool.
 - [Authy](https://authy.com) - Two-factor authentication app.
 
-- [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic) - macOS audio utility, turns your audio output into a virtual input.
-- [BalanceOpen](https://github.com/balanceio/balanceopen) - Network security software for macOS.
-- [Balsamiq Mockups](https://balsamiq.com/products/mockups) - Wireframing tool.
-- [Barss](https://github.com/relikd/barss) - A simple system resource monitor for the macOS menu bar.
 - [BarTranslate](https://github.com/ThijmenDam/BarTranslate) - macOS app that translates text from your menu bar.
 - [Base](https://menial.co.uk/base) - SQLite database manager.
 - [bash-it](https://github.com/Bashit/bashit) - Bash framework for iTerm2.
