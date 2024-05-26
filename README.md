@@ -120,7 +120,6 @@
 - [iTerm2](https://www.iterm2.com) - Terminal emulator for macOS.
 - [Itsycal](https://www.mowglii.com/itsycal) - Menu bar calendar for macOS.
 - [jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System.
-
 - [Juice](https://github.com/brianmichel/Juice) - iOS app for tracking your subscriptions.
 - [Kagi Browser](https://browser.kagi.com) - Web browser Orion.
 - [Kap](https://getkap.co) - Screen recording app.
@@ -250,51 +249,12 @@
 - [MWeb](http://www.mweb.im) - Markdown writing, note-taking, and static blog generator.
 - [mycli](https://github.com/dbcli/mycli) - Command Line Interface for MySQL, MariaDB, and Percona.
 - [MySQL Workbench](http://dev.mysql.com/downloads/workbench) - Visual database design tool.
+- 
 - [Naden](https://naden.co) - App for tracking habits and goals.
-- [Natron](https://natrongithub.github.io) - Video compositing software.
-- [Navicat Data Modeler](https://www.navicat.com/en/products/navicatdatamodeler) - Database design tool.
-- [ndm](https://720kb.github.io/ndm) - NPM desktop manager.
-- [ndm](https://github.com/720kb/ndm) - Npm desktop manager.
-- [Near North Software Screenshots](https://www.nearnorthsoftware.com/software/screenshots.php) - Screenshot utility for macOS.
-- [Neo4j](https://neo4j.com) - Graph database.
-- [NetBeans](https://github.com/apache/netbeans) - Apache NetBeans IDE.
-- [NetBeans](https://netbeans.org) - Integrated development environment (IDE).
 - [NetNewsWire](https://netnewswire.com/) - RSS reader.
-- [Nextcloud](https://nextcloud.com) - Self-hosted file sync and share.
-- [NextDNS](https://nextdns.io) - Private and secure DNS service.
-- [NightOwl](https://nightowl.kramser.xyz) - Night shift scheduler for your Mac.
-- [Nik Collection](https://nikcollection.dxo.com) - Photography plugins for Adobe Photoshop.
-- [Nikiv's Wiki](https://wiki.nikiv.dev/) - Personal wiki by Nikita Vasilyev.
-- [NitroShare](https://nitroshare.net) - Cross-platform file sharing.
-- [Nix](https://github.com/NixOS/nix) - A purely functional package manager.
-- [nmap](https://github.com/nmap/nmap) - A free and open-source network scanner.
-- [nocturnal](https://github.com/joshjon/nocturnal) - A simple macOS app for automating Night Shift.
-- [Node Scratchpad](https://github.com/vsaravind007/nodeScratchpad) - A simple macOS scratchpad for running Node.js code.
-- [NoiseBuddy](https://github.com/insidegui/NoiseBuddy) - Control the listening mode on your AirPods Pro.
-- [Noodlesoft](https://www.noodlesoft.com) - Automator-based file organization tool.
-- [notable](https://github.com/jmcfarlane/notable) - Simple note-taking app for macOS.
-- [Notable](https://github.com/notable/notable) - The markdown-based note-taking app that doesn't suck.
-- [Notarize](https://github.com/macmade/Notarize) - macOS app for notarizing apps before distribution.
 - [NotePlan](https://noteplan.co) - Markdown-based calendar and notes app.
-- [Notes](https://github.com/SauvageP/Notes) - macOS note-taking app for note lovers.
-- [Notes](https://www.getnotes.com) - Note-taking app for Mac.
 - [NoteShip](https://noteship.com) - Note-taking app.
-- [NoteTaker](https://github.com/insidegui/NoteTaker) - Simple note-taking app.
-- [Noti.center](https://noti.center) - Receive native notifications from your servers.
-- [Noti](https://github.com/jariz/Noti/) - Monitor a process and trigger a notification.
-- [Notion](https://www.notion.so) - All-in-one workspace app.
-- [Noto](https://github.com/brunophilipe/noto) - Note-taking app with a focus on simplicity.
-- [Nova](https://nova.app) - Code editor for macOS.
-- [Nozbe](https://nozbe.com) - To-do list and task manager.
-- [npm](http://npmjs.org) - Node.js package manager.
-- [Nuclear](https://nuclear.js.org) - Streaming music player.
-- [Nucleo](https://nucleoapp.com) - Icon manager and library.
-- [Numi](https://numi.io) - Calculator app.
-- [Nushell](https://github.com/nushell/nushell) - A new shell for the UNIX-like operating systems.
-- [NW.js](https://nwjs.io) - Platform for building desktop applications with JavaScript.
-- [Nylas Mail](https://nylas.com/nylasmail) - Email client and sync engine.
-- [Nylas Mail](https://www.nylas.com) - Email, calendar, and contacts app.
--
+- [Noto](https://www.brunophilipe.com/software/noto) - Note-taking app with a focus on simplicity.
 - [OpenEmu](https://github.com/OpenEmu/OpenEmu) - An open-source retro video game emulation console.
 - [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) - Finder Toolbar app to open the current directory in Terminal.
 - [Orbstack](https://orbstack.dev) - App development platform.
@@ -420,6 +380,16 @@
 - [Zsh](https://www.zsh.org) - Powerful shell with scripting language.
 
 ### Cross-applications
+- [Natron](https://natrongithub.github.io) - Video compositing software.
+- [ndm](https://720kb.github.io/ndm) - NPM desktop manager.
+- [NetBeans](https://netbeans.org) - Integrated development environment (IDE).
+- [Nextcloud](https://nextcloud.com) - Self-hosted file sync and share.
+- [NitroShare](https://nitroshare.net) - Cross-platform file sharing.
+- [Notable](https://github.com/notable/notable) - The markdown-based note-taking app that doesn't suck.
+- [Notion](https://www.notion.so) - All-in-one workspace app.
+- [Nuclear](https://nuclear.js.org) - Streaming music player.
+- [Numi](https://numi.io) - Calculator app.
+- [NW.js](https://nwjs.io) - Platform for building desktop applications with JavaScript.
 - [Obsidian](https://obsidian.md) - Note-taking and knowledge base app.
 - [OneNote](https://www.onenote.com) - Note-taking app by Microsoft.
 - [Oni](https://github.com/onivim/oni) - Oni is a modern modal editing environment - powered by Neovim.
