@@ -1,8 +1,8 @@
-# A list of MacOS Application sorted alphabeticaly
+# A list of MacOS Application sorted alphabetically
 
-*The list include open-source application, free and limited free, some of them is paid but worth teir money*
+*The list include open-source application, free and limited free, some of them is paid but worth their money*
 
-*I planing to parse this list and asign category for each application/service*
+*I'm planing to parse this list and assign category for each application/service*
 
 - [1440](https://1440app.com) - Customizable wallpaper app.git init
 - [7sols Dissolv](https://www.7sols.com/dissolv) - Video editing software.
