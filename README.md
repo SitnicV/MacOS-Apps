@@ -290,6 +290,104 @@
 - [Zsh](https://www.zsh.org) - Powerful shell with scripting language.
 
 ### Cross-applications
+
+- [ActivityWatch](https://activitywatch.net) -    Time tracking and activity logging.
+- [Adapter](https://macroplant.com/adapter)   - Audio and video converter.
+- [Affine](https://affine.pro)  - Image editor.
+- [Affinity](https://affinity.serif.com)  - Graphic design software.
+- [Alacritty](https://alacritty.org/index.html)  - A cross-platform, GPU-accelerated terminal emulator.
+- [AlternativeTo](https://alternativeto.net) {SITE} - Software recommendations.
+- [Android Studio](https://developer.android.com/studio/index.html)  - IDE for Android app development.
+- [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)   - A fast Redis desktop manager focused on simplicity and performance.
+- [Ao](https://github.com/klaudiosinani/ao)   - Elegant Microsoft To-Do app for macOS.
+- [Apache Directory Studio](https://directory.apache.org/studio)  - LDAP directory browser and editor.
+- [AppFlowy](https://www.appflowy.io)  - Mind mapping and note-taking app.
+- [AppJS](https://appjs.com)  - Desktop application framework.
+- [Arq Backup](https://www.arqbackup.com)  - Cloud backup solution.
+- [Battle for Wesnoth](https://github.com/wesnoth/wesnoth)  - A turn-based strategy game with a fantasy theme.
+- [Bitwarden](https://bitwarden.com)  - Open-source password manager.
+- [Blender](https://www.blender.org)  - Open-source 3D creation suite.
+- [Brackets](https://brackets.io)  - Code editor for web development.
+- [Brave](https://brave.com)   - Privacy-focused web browser.
+- [Bruno](https://www.usebruno.com)  - Postman alternative
+- [Buttercup](https://buttercup.pw)   - Password manager.
+- [Cacher](https://www.cacher.io)  - Code snippet organizer.
+- [Calibre](https://calibre-ebook.com)  - E-book library management application.
+- [Canary Mail](https://canarymail.io)  - Email client.
+- [Caprine](https://sindresorhus.com/caprine/)  - Elegant Facebook Messenger desktop app.
+- [Cerebro](https://cerebroapp.com)  - Open-source productivity booster.
+- [ClamAV](https://www.clamav.net)   - Antivirus software.
+- [Color Picker](https://colorpicker.fr)   - Color picker app.
+- [Cryptomator](https://cryptomator.org)  - File encryption for the cloud.
+- [Cutter](https://cutter.re)  - Reverse engineering platform.
+- [Cyberduck](https://cyberduck.io)  - FTP, SFTP, WebDAV, and cloud storage browser.
+- [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)  - Video editing and color correction software.
+- [DBeaver](https://dbeaver.io)   - Universal database tool.
+- [dbgate](https://dbgate.org)  - Database manager and SQL editor for SQLite, MySQL, SQL Server, and PostgreSQL.
+- [Deadbolt](https://github.com/alichtman/deadbolt)  - A macOS app for creating strong, unique passwords.
+- [DeepL](https://www.deepl.com/en/app)  - Neural machine translation.
+- [desktop](https://github.com/desktop/desktop)  - GitHub Desktop app.
+- [DiffMerge](https://sourcegear.com/diffmerge)  - File and folder comparison tool.
+- [DingTalk](https://www.dingtalk.com/en)  - Communication and collaboration platform.
+- [Discord](https://discord.com)  - Chat and communication platform.
+- [DiskDrill](https://www.cleverfiles.com/data-recovery-software.html)   - - Recover your deleted files
+- [DisplayBuddy](https://displaybuddy.app)   - Multi-monitor utility.
+- [Docker](https://www.docker.com)  - Platform for containerized applications.
+- [Dropbox](https://www.dropbox.com)  - Cloud storage service.
+- [DropPoint](https://github.com/GameGodS3/DropPoint)  - macOS status bar app for sharing files via AirDrop.
+- [Eagle](https://en.eagle.cool)  {30$}- Lightweight and fast image viewer and organiser.
+- [Eclipse](https://www.eclipse.org)  - Integrated development environment (IDE).
+- [Evernote](https://evernote.com)  - Note-taking app.
+- [ExifCleaner](https://exifcleaner.com)  - EXIF metadata remover.
+- [f.lux](https://justgetflux.com)  - Adjusts your computer's display to adapt to the time of day.
+- [Figma](https://www.figma.com)  - Collaborative design tool.
+- [Firefox](https://www.firefox.com)  - Web browser by Mozilla.
+- [FlyingCarpet](https://github.com/spieglt/flyingcarpet)  - Send and receive files between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi
+- [fman](https://fman.io)  - Dual-pane file manager.
+- [Focalboard](https://www.focalboard.com)  - Open-source alternative to Trello.
+- [FontForge](https://fontforge.github.io)  - Font editor.
+- [Foxmail](https://www.foxmail.com/mac/en)   - Email client.
+- [Framer](https://framerjs.com)  {webbased} - Interactive design tool.
+- [Franz](https://meetfranz.com)  - Messaging app for WhatsApp, Slack, and more.
+- [Free Download Manager](http://www.freedownloadmanager.org)   - Download manager and accelerator.
+- [FreeCAD](https://www.freecad.org)  - A parametric 3D CAD modeler.
+- [FreeTube](https://freetubeapp.io)   - Privacy-focused YouTube player.
+- [FromScratch](https://fromscratch.rocks/)  - Auto-saving scratchpad with a simple interface.
+- [gaphor](https://github.com/gaphor/gaphor)  - UML and SysML modeling application.
+- [Gifcurry](https://github.com/lettier/gifcurry)  - Video to GIF maker with a text-based user interface.
+- [GIMP](https://www.gimp.org)   - Open-source image editor.
+- [gitahead](https://github.com/gitahead/gitahead/)  - A Git GUI for managing Git repositories.
+- [GitHub Desktop](https://desktop.github.com)  - Git GUI for GitHub.
+- [GitKraken](https://www.gitkraken.com)   - Git GUI client.
+- [Google Chrome](https://www.google.com/chrome)  - Web browser by Google.
+- [Grammarly](https://app.grammarly.com)  - Writing assistant.
+- [HandBrake](https://handbrake.fr)   - Video transcoder.
+- [He3](https://he3.app)   - Advanced file browser and manager.
+- [HTTPie](https://httpie.io)  - User-friendly command-line HTTP client.
+- [HTTrack](http://www.httrack.com)   - Website copier and offline browser.
+- [Hyper](https://hyper.is)  - Terminal emulator
+- [Imagine](https://github.com/meowtec/Imagine)  - A desktop app for compression of PNG and JPEG.
+- [ImHex](https://imhex.werwolv.net)  - Hex editor.
+- [Inkscape](https://inkscape.org/en)  - Vector graphics editor.
+- [JDownloader](https://jdownloader.org)  - Open-source software for downloading files.
+- [JetBrains](https://www.jetbrains.com)   - IDEs for various programming languages.
+- [Joplin](https://joplinapp.org)  - Note-taking and to-do app.
+- [Justinmind](https://www.justinmind.com)  - Prototyping tool.
+- [KeeWeb](https://keeweb.info)  - Cross-platform password manager.
+- [Keybase](https://keybase.io)  - Secure file sharing and messaging.
+- [Kodi](https://kodi.tv)  - Media player and entertainment hub.
+- [Krita](https://krita.org/en)  - Digital painting and illustration software.
+- [Lantern](https://getlantern.org)    - Internet proxy tool.
+- [Lapce](https://lapce.dev)  - Code editor.
+- [Lepton](https://github.com/hackjutsu/Lepton)   - A- Free office lean code snippet manager based on GitHub Gist.
+- [LibreOffice](https://www.libreoffice.org)   suite.
+- [LibreWolf](https://librewolf.net)  - Privacy-focused web browser.
+- [LICEcap](http://www.cockos.com/licecap)  - Animated screen capture app.?
+- [Lightshot](https://app.prntscr.com)    - Screenshot tool.
+- [LightTable](https://lighttable.com)  - IDE with a focus on simplicity and productivity.
+- [LiveCode](https://github.com/livecode/livecode)   - A cross-platform rapid application development (RAD) platform.
+- [LMMS](https://lmms.io)   - Digital audio workstation.
+- [Logseq](https://logseq.com)   - Note-taking app with a focus on non-linear thinking.
 - [Mailspring](https://getmailspring.com) - Email client.
 - [Malwarebytes](https://www.malwarebytes.com/macdownload) - Malware protection.
 - [Manta](https://github.com/hql287/Manta) - Flexible invoicing desktop app with beautiful & customizable templates.
@@ -447,106 +545,6 @@
 - [ZeroBrane Studio](https://github.com/pkulchenko/ZeroBraneStudio) - A lightweight Lua-based IDE for Lua with code completion, syntax highlighting, remote debugger, and more.
 - [Zettlr](https://www.zettlr.com) - Markdown editor for researchers and writers.
 - [Zotero](https://www.zotero.org) - Free, easy-to-use tool to help you collect, organize, cite, and share your research materials.
-
-
-- [ActivityWatch](https://activitywatch.net) -    Time tracking and activity logging.
-- [Adapter](https://macroplant.com/adapter)   - Audio and video converter.
-- [Affine](https://affine.pro)  - Image editor.
-- [Affinity](https://affinity.serif.com)  - Graphic design software.
-- [Alacritty](https://alacritty.org/index.html)  - A cross-platform, GPU-accelerated terminal emulator.
-- [AlternativeTo](https://alternativeto.net) {SITE} - Software recommendations.
-- [Android Studio](https://developer.android.com/studio/index.html)  - IDE for Android app development.
-- [AnotherRedisDesktopManager](https://github.com/qishibo/AnotherRedisDesktopManager)   - A fast Redis desktop manager focused on simplicity and performance.
-- [Ao](https://github.com/klaudiosinani/ao)   - Elegant Microsoft To-Do app for macOS.
-- [Apache Directory Studio](https://directory.apache.org/studio)  - LDAP directory browser and editor.
-- [AppFlowy](https://www.appflowy.io)  - Mind mapping and note-taking app.
-- [AppJS](https://appjs.com)  - Desktop application framework.
-- [Arq Backup](https://www.arqbackup.com)  - Cloud backup solution.
-- [Battle for Wesnoth](https://github.com/wesnoth/wesnoth)  - A turn-based strategy game with a fantasy theme.
-- [Bitwarden](https://bitwarden.com)  - Open-source password manager.
-- [Blender](https://www.blender.org)  - Open-source 3D creation suite.
-- [Brackets](https://brackets.io)  - Code editor for web development.
-- [Brave](https://brave.com)   - Privacy-focused web browser.
-- [Bruno](https://www.usebruno.com)  - Postman alternative
-- [Buttercup](https://buttercup.pw)   - Password manager.
-- [Cacher](https://www.cacher.io)  - Code snippet organizer.
-- [Calibre](https://calibre-ebook.com)  - E-book library management application.
-- [Canary Mail](https://canarymail.io)  - Email client.
-- [Caprine](https://sindresorhus.com/caprine/)  - Elegant Facebook Messenger desktop app.
-- [Cerebro](https://cerebroapp.com)  - Open-source productivity booster.
-- [ClamAV](https://www.clamav.net)   - Antivirus software.
-- [Color Picker](https://colorpicker.fr)   - Color picker app.
-- [Cryptomator](https://cryptomator.org)  - File encryption for the cloud.
-- [Cutter](https://cutter.re)  - Reverse engineering platform.
-- [Cyberduck](https://cyberduck.io)  - FTP, SFTP, WebDAV, and cloud storage browser.
-- [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve)  - Video editing and color correction software.
-- [DBeaver](https://dbeaver.io)   - Universal database tool.
-- [dbgate](https://dbgate.org)  - Database manager and SQL editor for SQLite, MySQL, SQL Server, and PostgreSQL.
-- [Deadbolt](https://github.com/alichtman/deadbolt)  - A macOS app for creating strong, unique passwords.
-- [DeepL](https://www.deepl.com/en/app)  - Neural machine translation.
-- [desktop](https://github.com/desktop/desktop)  - GitHub Desktop app.
-- [DiffMerge](https://sourcegear.com/diffmerge)  - File and folder comparison tool.
-- [DingTalk](https://www.dingtalk.com/en)  - Communication and collaboration platform.
-- [Discord](https://discord.com)  - Chat and communication platform.
-- [DiskDrill](https://www.cleverfiles.com/data-recovery-software.html)   - - Recover your deleted files
-- [DisplayBuddy](https://displaybuddy.app)   - Multi-monitor utility.
-- [Docker](https://www.docker.com)  - Platform for containerized applications.
-- [Dropbox](https://www.dropbox.com)  - Cloud storage service.
-- [DropPoint](https://github.com/GameGodS3/DropPoint)  - macOS status bar app for sharing files via AirDrop.
-- [Eagle](https://en.eagle.cool)  {30$}- Lightweight and fast image viewer and organiser.
-- [Eclipse](https://www.eclipse.org)  - Integrated development environment (IDE).
-- [Evernote](https://evernote.com)  - Note-taking app.
-- [ExifCleaner](https://exifcleaner.com)  - EXIF metadata remover.
-- [f.lux](https://justgetflux.com)  - Adjusts your computer's display to adapt to the time of day.
-- [Figma](https://www.figma.com)  - Collaborative design tool.
-- [Firefox](https://www.firefox.com)  - Web browser by Mozilla.
-- [FlyingCarpet](https://github.com/spieglt/flyingcarpet)  - Send and receive files between Android, iOS, Linux, macOS, and Windows over ad hoc WiFi
-- [fman](https://fman.io)  - Dual-pane file manager.
-- [Focalboard](https://www.focalboard.com)  - Open-source alternative to Trello.
-- [FontForge](https://fontforge.github.io)  - Font editor.
-- [Foxmail](https://www.foxmail.com/mac/en)   - Email client.
-- [Framer](https://framerjs.com)  {webbased} - Interactive design tool.
-- [Franz](https://meetfranz.com)  - Messaging app for WhatsApp, Slack, and more.
-- [Free Download Manager](http://www.freedownloadmanager.org)   - Download manager and accelerator.
-- [FreeCAD](https://www.freecad.org)  - A parametric 3D CAD modeler.
-- [FreeTube](https://freetubeapp.io)   - Privacy-focused YouTube player.
-- [FromScratch](https://fromscratch.rocks/)  - Auto-saving scratchpad with a simple interface.
-- [gaphor](https://github.com/gaphor/gaphor)  - UML and SysML modeling application.
-- [Gifcurry](https://github.com/lettier/gifcurry)  - Video to GIF maker with a text-based user interface.
-- [GIMP](https://www.gimp.org)   - Open-source image editor.
-- [gitahead](https://github.com/gitahead/gitahead/)  - A Git GUI for managing Git repositories.
-- [GitHub Desktop](https://desktop.github.com)  - Git GUI for GitHub.
-- [GitKraken](https://www.gitkraken.com)   - Git GUI client.
-- [Google Chrome](https://www.google.com/chrome)  - Web browser by Google.
-- [Grammarly](https://app.grammarly.com)  - Writing assistant.
-- [HandBrake](https://handbrake.fr)   - Video transcoder.
-- [He3](https://he3.app)   - Advanced file browser and manager.
-- [HTTPie](https://httpie.io)  - User-friendly command-line HTTP client.
-- [HTTrack](http://www.httrack.com)   - Website copier and offline browser.
-- [Hyper](https://hyper.is)  - Terminal emulator
-- [Imagine](https://github.com/meowtec/Imagine)  - A desktop app for compression of PNG and JPEG.
-- [ImHex](https://imhex.werwolv.net)  - Hex editor.
-- [Inkscape](https://inkscape.org/en)  - Vector graphics editor.
-- [JDownloader](https://jdownloader.org)  - Open-source software for downloading files.
-- [JetBrains](https://www.jetbrains.com)   - IDEs for various programming languages.
-- [Joplin](https://joplinapp.org)  - Note-taking and to-do app.
-- [Justinmind](https://www.justinmind.com)  - Prototyping tool.
-- [KeeWeb](https://keeweb.info)  - Cross-platform password manager.
-- [Keybase](https://keybase.io)  - Secure file sharing and messaging.
-- [Kodi](https://kodi.tv)  - Media player and entertainment hub.
-- [Krita](https://krita.org/en)  - Digital painting and illustration software.
-- [Lantern](https://getlantern.org)    - Internet proxy tool.
-- [Lapce](https://lapce.dev)  - Code editor.
-- [Lepton](https://github.com/hackjutsu/Lepton)   - A- Free office lean code snippet manager based on GitHub Gist.
-- [LibreOffice](https://www.libreoffice.org)   suite.
-- [LibreWolf](https://librewolf.net)  - Privacy-focused web browser.
-- [LICEcap](http://www.cockos.com/licecap)  - Animated screen capture app.?
-- [Lightshot](https://app.prntscr.com)    - Screenshot tool.
-- [LightTable](https://lighttable.com)  - IDE with a focus on simplicity and productivity.
-- [LiveCode](https://github.com/livecode/livecode)   - A cross-platform rapid application development (RAD) platform.
-- [LMMS](https://lmms.io)   - Digital audio workstation.
-- [Logseq](https://logseq.com)   - Note-taking app with a focus on non-linear thinking.
-
 
 ---
 
