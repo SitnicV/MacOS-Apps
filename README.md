@@ -588,89 +588,42 @@
 - [SYM](https://github.com/zqqf16/SYM) - A lightweight system monitor for macOS.
 - [Syncalicious](https://github.com/zenangst/Syncalicious) - macOS app for syncing your reading position across devices.
 - [Synfig Studio](https://synfig.org) - Animation software.
-- [tabby](https://github.com/Eugeny/tabby) - A simple GTK terminal emulator with advanced features.
-- [Tableau Public](https://public.tableau.com/s) - Data visualization tool.
-- [TablePlus](https://tableplus.io) - Modern, native database tool.
 - [TableTool](https://github.com/jakob/TableTool) - Simple CSV editor for macOS.
-- [Tad Viewer](https://www.tadviewer.com) - Text and hex file viewer.
-- [Taskade](https://www.taskade.com) - Collaboration tool for teams.
 - [Taskbook](https://github.com/klaussinani/taskbook) - A task manager that uses a simple todo.txt file format.
 - [TaskPaper](https://www.taskpaper.com) - Plain text to-do list.
 - [Tayasui Sketches](https://www.tayasui.com/sketches) - Drawing app for Mac.
-- [Teambition](https://www.teambition.com) - Project management and collaboration.
-- [TeamViewer](https://www.teamviewer.com/en) - Remote access and support software.
-- [TechSmith](https://www.techsmith.com) - Screen capture and video editing software.
-- [Telegram Desktop](https://desktop.telegram.org) - Messaging app.
-- [Telegram Desktop](https://github.com/telegramdesktop/tdesktop) - The official macOS desktop client for Telegram.
-- [TelegramSwift](https://github.com/overtake/TelegramSwift) - A fast and secure Telegram client.
 - [Telephone](https://github.com/64characters/Telephone) - SIP soft-phone.
-- [Termius](https://www.termius.com) - SSH client for remote development.
-- [TeXifier](https://www.texifier.com) - Convert LaTeX to PNG or SVG.
-- [TeXstudio](https://www.texstudio.org) - LaTeX editor.
-- [TextMate](https://github.com/textmate/textmate) - A graphical text editor for macOS.
 - [TextMate](https://macromates.com) - Code editor for macOS.
 - [textql](https://github.com/dinedal/textql) - Execute SQL against structured text like CSV or TSV.
 - [TextSniper](https://textsniper.app) - OCR tool to extract text from images.
 - [TG Pro](https://www.tunabellysoftware.com/tgpro) - Fan control and hardware monitoring.
 - [The Unarchiver](https://theunarchiver.com) - Decompression software for macOS.
-- [the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
-- [thefuck](https://github.com/nvbn/thefuck) - Correcting your previous console command.
 - [ThenGenerator](https://github.com/87kangsw/ThenGenerator) - Swift extension generator.
 - [Theola Brothers](https://theolabrothers.com) - Software development and consultancy.
 - [Things](https://culturedcode.com/things) - Task management app.
 - [Thor](https://github.com/gbammc/Thor) - Simple markdown editor.
-- [Thorn](https://thorn.so) - Focus app to block distractions.
-- [thyme](https://github.com/joaomoreno/thyme) - Automatic time tracking for macOS.
-- [Tickeys](https://github.com/yingDev/Tickeys) - Instant audio feedback for typing.
-- [TickTick](https://ticktick.com) - Task and to-do list app.
-- [TigerVPN](https://www.tigervpn.com/vpnformac) - VPN service.
 - [Time Lane](https://timelane.tools) - Instrument for profiling and visualizing app performance.
 - [Timing](https://timingapp.com) - Automatic time tracking app.
-- [Tinc VPN](https://www.tincvpn.org) - VPN daemon.
 - [Tincta](https://github.com/CodingFriends/Tincta) - Text editor with a focus on speed and simplicity.
 - [TinyPNG4Mac](https://github.com/kyleduo/TinyPNG4Mac) - macOS app for compressing images using TinyPNG API.
 - [tldr](https://tldr.sh) - Simplified and community-driven man pages.
 - [tmpNote](https://github.com/buddax2/tmpNote) - A simple, temporary note-taking app.
 - [tmux](https://github.com/tmux/tmux) - Terminal multiplexer for Unix-like operating systems.
 - [tmuxinator](https://github.com/tmuxinator/tmuxinator) - Create and manage tmux sessions easily.
-- [Todoist](https://todoist.com/mac) - Task management and organization app.
 - [Tomato 2](https://tomato2.app) - Pomodoro timer app.
 - [TomatoBar](https://github.com/ivoronin/TomatoBar) - Pomodoro Technique® timer for your Mac.
 - [Toolbox](https://en.toolinbox.net) - Web design tools.
-- [Tor Browser](https://www.torproject.org/projects/torbrowser.html) - Web browser for anonymous browsing.
-- [Tot](https://tot.rocks) - Distraction-free text editor.
 - [TotalFinder](http://totalfinder.binaryage.com) - Finder extension.
 - [TotalSpaces](https://totalspaces.binaryage.com) - Desktop manager for macOS.
-- [ToTheTop](https://github.com/zenangst/ToTheTop) - A menu bar app that brings you back to the top of the page.
-- [Trailer](https://github.com/ptsochantaris/trailer) - Manage and watch GitHub repositories right from your menubar.
-- [Translatium](https://translatium.app) - Translation app.
-- [Transmission](https://github.com/transmission/transmission) - Fast, easy, and free BitTorrent client.
 - [Transmission](https://www.transmissionbt.com) - BitTorrent client.
 - [Transmit](https://panic.com/transmit) - File transfer app.
 - [TransporterPad](https://github.com/iseebi/TransporterPad) - GUI for Transporter.
-- [Trash](https://github.com/sindresorhus/trash) - Move files to the trash.
 - [Trello](https://trello.com) - Project management tool.
-- [TrelloApp](https://github.com/jlong/TrelloApp) - Unofficial Trello app for macOS.
-- [Tribler](https://github.com/Tribler/tribler) - Privacy-focused P2P file sharing.
-- [Tropy](https://tropy.org) - Research photo management.
-- [TunnelBear](https://www.tunnelbear.com) - VPN service.
-- [Tunnelblick](https://github.com/Tunnelblick/Tunnelblick) - Open-source graphic user interface for OpenVPN on macOS.
 - [Tunnelblick](https://tunnelblick.net/downloads.html) - Open-source VPN client.
-- [Tusk](https://github.com/klaudiosinani/tusk) - Unofficial Evernote app for macOS.
-- [Tutanota](https://tutanota.com) - Encrypted email service.
 - [Type2Phone](https://www.houdah.com/type2Phone) - Use Mac as a Bluetooth keyboard.
-- [Typora](https://www.typora.io) - Markdown editor.
-- [uebersicht](https://github.com/felixhageloh/uebersicht) - Extensible macOS widget system.
-- [ueli](https://github.com/oliverschwendener/ueli) - A keystroke launcher for Windows, macOS, and Linux.
-- [Ukelele](https://scripts.sil.org/ukelele) - Unicode keyboard layout editor.
 - [Ulysses](https://www.ulyssesapp.com/features) - Writing app for creative writers.
 - [Unshaky](https://github.com/aahung/Unshaky) - Fix for double key press issue on MacBook Pro butterfly keyboards.
-- [Unused](https://github.com/jeffhodnett/Unused) - A Mac app for finding unused Swift code.
-- [UPDF](https://updf.com) - PDF annotation and editing tool.
-- [UrBackup Backend](https://github.com/uroni/urbackup_backend) - Server component for UrBackup, a client/server backup system.
-- [UTM](https://github.com/utmapp/) - Virtual machines for iOS and macOS.
 - [UTM](https://mac.getutm.app) - Virtualization app.
-
 - [Vanilla](https://matthewpalmer.net/vanilla) - Mac menu bar customization.
 - [Veertu](https://veertu.com) - Lightweight virtualization app.
 - [Vegvisir](https://github.com/ant4g0nist/vegvisir) - A macOS app for anomaly detection.
@@ -711,7 +664,34 @@
 - [Zsh](https://www.zsh.org) - Powerful shell with scripting language.
 
 ### Cross-applications
-
+- [tabby](https://tabby.sh) - A simple GTK terminal emulator with advanced features.
+- [TablePlus](https://tableplus.io) - Modern, native database tool.
+- [Tad Viewer](https://www.tadviewer.com) - Text and hex file viewer.
+- [Taskade](https://www.taskade.com) - Collaboration tool for teams.
+- [TeamViewer](https://www.teamviewer.com/en) - Remote access and support software.
+- [TechSmith](https://www.techsmith.com) - Screen capture and video editing software.
+- [Telegram Desktop](https://desktop.telegram.org) - Messaging app.
+- [Termius](https://www.termius.com) - SSH client for remote development.
+- [TeXifier](https://www.texifier.com) - Experience the best academic writing experience on your Windows computer.
+- [TeXstudio](https://www.texstudio.org) - LaTeX editor.
+- [the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
+- [Thorn](https://thorn.so) - Focus app to block distractions.
+- [Tickeys](https://github.com/yingDev/Tickeys) - Instant audio feedback for typing.
+- [TickTick](https://ticktick.com) - Task and to-do list app.
+- [Todoist](https://todoist.com/mac) - Task management and organization app.
+- [Tor Browser](https://www.torproject.org/projects/torbrowser.html) - Web browser for anonymous browsing.
+- [Tot](https://tot.rocks) - Distraction-free text editor.
+- [Translatium](https://translatium.app) - Translation app.
+- [Trash](https://github.com/sindresorhus/trash) - Move files to the trash.
+- [Trello](https://trello.com) - Project management tool.
+- [Tribler](https://github.com/Tribler/tribler) - Privacy-focused P2P file sharing.
+- [Tropy](https://tropy.org) - Research photo management.
+- [Tusk](https://github.com/klaudiosinani/tusk) - Unofficial Evernote app.
+- [Tutanota](https://tutanota.com) - Encrypted email service.
+- [Typora](https://www.typora.io) - Markdown editor.
+- [ueli](https://github.com/oliverschwendener/ueli) - A keystroke launcher for Windows, macOS, and Linux.
+- [UPDF](https://updf.com) - PDF annotation and editing tool.
+- [UrBackup Backend](https://www.urbackup.org) - Server component for UrBackup, a client/server backup system.
 - [GitBreeze](https://gitbreeze.dev) - Version control tool for designers.
 - [Linearity](https://www.linearity.io/) - Vector graphic design software.
 - [Vagrant](https://www.vagrantup.com) - Development environments made easy.
