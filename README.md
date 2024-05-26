@@ -766,7 +766,7 @@
 - [Unshaky](https://github.com/aahung/Unshaky) - Fix for double key press issue on MacBook Pro butterfly keyboards.
 - [Unused](https://github.com/jeffhodnett/Unused) - A Mac app for finding unused Swift code.
 - [UPDF](https://updf.com) - PDF annotation and editing tool.
-  - [UrBackup Backend](https://github.com/uroni/urbackup_backend) - Server component for UrBackup, a client/server backup system.
+- [UrBackup Backend](https://github.com/uroni/urbackup_backend) - Server component for UrBackup, a client/server backup system.
 - [UTM](https://github.com/utmapp/) - Virtual machines for iOS and macOS.
 - [UTM](https://mac.getutm.app) - Virtualization app.
 - [V2rayU](https://github.com/yanue/V2rayU) - Macosx menu bar application built with Electron.
