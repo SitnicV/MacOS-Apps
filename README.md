@@ -132,124 +132,34 @@
 - [Later](https://getlater.app) - Social media scheduling app.
 - [LinearMouse](https://linearmouse.app) - Adjustable and ergonomic mouse.
 - [Linked](https://github.com/lostdesign/linked) - A file manager designed to work with symbolic links.
-- [LinkedIdeas](https://github.com/fespinoza/LinkedIdeas) - macOS concept mapping tool.
 - [lnav](https://lnav.org) - Log file navigator.
 - [Loading](https://github.com/BonzaiThePenguin/Loading) - Simple web browser that focuses on privacy and security.
 - [Loca Studio](https://www.cunningo.com/locastudio/index.html) - Localization tool.
-- [mac2imgur](https://github.com/mileswd/mac2imgur) - A simple Imgur uploader for macOS.
 - [MacBartender](https://www.macbartender.com) - Organize menu bar icons.
-- [MacCacheCleaner](https://github.com/kaunteya/MacCacheCleaner) - Utility to clean and optimize system caches on macOS.
-- [Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS.
-- [Maccy](https://maccy.app) - Clipboard manager.
 - [MacDown](http://macdown.uranusjr.com) - Markdown editor.
-- [MacDown](https://github.com/MacDownApp/macdown) - Open-source Markdown editor for macOS.
-- [MacGap](https://macgapproject.github.io) - Desktop web application wrapper.
-- [macGist](https://github.com/Bunn/macGist) - macOS app for managing Gists.
 - [Mackup](https://github.com/lra/mackup) - Keep your application settings in sync.
-- [MacMorpheus](https://github.com/emoRaivis/MacMorpheus) - Tool for animating macOS wallpapers.
-- [macOrganizer](https://github.com/shubhambatra3019/macOrganizer) - macOS organizer app.
-- [macOS Lucida Grande](https://github.com/LumingYin/macOSLucidaGrande) - Brings back the classic Lucida Grande font to macOS.
-- [MacPass](https://github.com/MacPass/MacPass) - A native KeePass client for macOS.
-- [MacPass](https://macpass.github.io) - Password manager.
-- [MacPorts](https://www.macports.org) - Package management for macOS.
-- [MacStories](https://www.macstories.net) - Apple news and app reviews.
-- [macSVG](https://github.com/dsward2/macSVG) - SVG editor for macOS.
 - [MacSVG](https://macsvg.org) - SVG editor.
-- [MacSystemColors](https://github.com/kaunteya/MacSystemColors) - A macOS app to view and copy system color palettes.
 - [MacUpdate](https://www.macupdate.com) - Software discovery platform.
-- [MacYTDL](https://github.com/section83/MacYTDL) - GUI wrapper for youtube-dl, a powerful command-line tool for downloading videos.
-- [Magic Wormhole](https://magicwormhole.readthedocs.io/en/latest) - Secure file transfer tool.
-- [MagicaVoxel](https://ephtracy.github.io) - Voxel art editor.
+- [MacYTDL](https://github.com/section83/MacYTDL) - GUI wrapper for youtube-dl, a powerful command-line tool for downloading videos.- 
 - [Magnet](https://magnet.crowdcafe.com) - Window manager.
-- [Mailspring](https://getmailspring.com) - Email client.
-- [Mailspring](https://github.com/Foundry376/Mailspring) - Email client with modern features.
-- [MailSuite](https://smallcubed.com) - Email enhancement suite.
-- [MakeHuman](http://www.makehumancommunity.org) - 3D character creation tool.
-- [Malwarebytes](https://www.malwarebytes.com/macdownload) - Malware protection.
-- [Manta](https://github.com/hql287/Manta) - Flexible invoicing desktop app with beautiful & customizable templates.
 - [MarginNote](https://marginnote.com) - Note-taking app with PDF annotation.
-- [Maria](https://github.com/shincurry/Maria) - A macOS app for creating REST APIs.
-- [Mark Text](https://github.com/marktext/marktext) - A simple and elegant Markdown editor.
-- [Marked 2](https://marked2app.com) - Markdown previewer.
-- [MarkMan](https://getmarkman.com) - Measure and inspect everything on your screen.
-- [Marp](https://marp.app) - Markdown presentation editor.
 - [Marta](https://marta.sh) - File manager.
-- [Marvel](https://marvelapp.com) - Design and prototyping tool.
-- [Marxico](https://marxi.co) - Markdown editor.
-- [massCode](https://github.com/massCodeIO/massCode) - An open-source code snippets manager for developers.
-- [Matrix](https://matrix.org/) - Open network for secure, decentralized communication.
-- [Mattermost](https://mattermost.com/download) - Open-source messaging platform.
-- [MDB Explorer](http://www.macexplorer.co/en/mdbexplorer.php) - Database viewer.
-- [Measure](https://utom.design/measure) - A ruler for macOS.
 - [Medis](https://getmedis.com) - Redis management tool.
-- [Medis](https://github.com/luin/medis) - Redis management application built on Electron.
-- [MeetingBar](https://github.com/leits/MeetingBar) - Menu bar app for your calendar meetings.
 - [MeetingBar](https://meetingbar.onrender.com) - Menu bar app for upcoming meetings.
-- [MEGA](https://mega.nz) - Cloud storage.
-- [Memo](https://memoapp.net) - Note-taking app.
 - [MenuBarX](https://menubarx.app) - Customize and enhance your Mac's menu bar.
-- [MenuMeters](https://github.com/yujitach/MenuMeters) - CPU, memory, disk, and network monitoring tools for macOS.
-- [MenuTube](https://github.com/edanchenkov/MenuTube) - A lightweight YouTube player for macOS.
-- [MessagesHistoryBrowser](https://github.com/glaurent/MessagesHistoryBrowser) - Browse your iPhone's messages on your Mac.
-- [Metadatics](https://markvapps.com/metadatics) - Audio metadata editor.
 - [MiaoYan](https://miaoyan.app) - Simple and elegant note-taking app.
-- [Micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor.
-- [Microsoft Edge](https://www.microsoft.com/edge) - Web browser by Microsoft.
-- [Microsoft Office for Mac](https://products.office.com/enus/mac/microsoftofficeformac) - Office suite for Mac.
-- [Microsoft To-Do](https://todo.microsoft.com) - To-do list app by Microsoft.
-- [Miller](https://miller.readthedocs.io/en/latest) - Command-line CSV processor.
-- [Min](https://github.com/minbrowser/min) - A fast, minimal web browser.
-- [Min](https://minbrowser.org) - Fast, minimal web browser.
-- [MindM](https://mindmac.app) - Mind mapping app.
 - [MindNode](https://mindnode.com) - Mind mapping and brainstorming app.
-- [Mingo](https://mingo.io) - Smart task management.
-- [MinimalClock](https://github.com/mattiarossini/MinimalClock) - A minimal clock app for macOS.
 - [MiniSim](https://github.com/okwasniewski/MiniSim) - A minimalistic flight simulator.
-- [mitmproxy](https://mitmproxy.org) - Interactive TLS-capable intercepting proxy.
-- [Mixxx](https://mixxx.org) - DJ software.
-- [mkchromecast](https://github.com/muammar/mkchromecast) - Cast your macOS audio or video to your Google Cast devices.
 - [Mnemonic Security](https://www.manasecurity.com) - Security software for macOS.
-- [MockFlow](https://www.mockflow.com) - Online design tool.
-- [Mockplus](http://www.mockplus.com) - Prototyping tool.
-- [ModalFileManager](https://github.com/raguay/ModalFileManager) - A Modal File Manager for the macOS.
-- [MongoDB Compass](https://gcollazo.github.io/mongodbapp) - MongoDB GUI.
-- [MongoDB](https://www.mongodb.com) - NoSQL database.
-- [mongodbapp](https://github.com/gcollazo/mongodbapp) - Native MongoDB management tool.
+- [mongodbapp](https://gcollazo.github.io/mongodbapp/) - Native MongoDB management tool.
 - [MonitorBar](https://github.com/tidiemme/monitorbar) - macOS app to monitor system activity in the menu bar.
-- [MonitorControl](https://github.com/MonitorControl/MonitorControl) - Control your external monitors on macOS.
 - [Monity](http://www.monityapp.com) - System monitoring app.
 - [Monodraw](https://monodraw.helftone.com) - ASCII art editor.
-- [Monolingual](https://github.com/IngmarStein/Monolingual) - Remove unnecessary language resources from macOS.
-- [Monosnap](https://monosnap.com) - Screen capture and annotation tool.
 - [Moom](https://manytricks.com/moom) - Window manager.
-- [Mos](https://github.com/Caldis/Mos) - A simple tool used to smooth scrolling and set scroll direction independently for your mouse on macOS.
 - [Mos](https://mos.caldis.me) - Smooth scrolling and font antialiasing.
-- [Motrix](https://github.com/agalwood/Motrix) - Full-featured download manager.
-- [Motrix](https://motrix.app) - Full-featured download manager.
 - [Mounty](https://enjoygineering.com/mounty) - NTFS write support app.
-- [Mous](https://github.com/bsdelf/mous) - A simple, distraction-free writing app.
-- [MovieCatcher](https://evilcult.github.io/moviecatcher) - Movie information app.
-- [Mozilla Thunderbird](https://www.mozilla.org/enUS/thunderbird) - Email client by Mozilla.
-- [MP3tag](https://mp3tag.app) - MP3 tag editor.
-- [MPlayerX](https://github.com/niltsh/MPlayerX) - A media player on macOS.
-- [mpv](https://www.mpv.io) - Media player.
-- [MQTTX](https://github.com/emqx/MQTTX) - Cross-platform MQTT 5.0 desktop client.
-- [MTMR (My TouchBar. My Rules)](https://github.com/toxblh/MTMR) - The Touch Bar Customization App.
-- [muCommander](https://www.mucommander.com) - Cross-platform file manager.
-- [Mullvad Browser Extension](https://mullvad.net/en/download/browser) - Browser extension for Mullvad VPN.
-- [Mullvad](https://mullvad.net) - VPN service for privacy.
-- [Multipass](https://multipass.run) - Lightweight VM manager for Linux.
-- [MusaicFM](https://github.com/obrhoff/MusaicFM) - An unofficial Apple Music app for macOS.
-- [Muse](https://github.com/xzzz9097/Muse) - A simple media server application.
-- [Museeks](https://museeks.io) - Simple music player.
 - [MuseScore](https://musescore.org) - Music notation software.
-- [MusicBrainz Picard](https://picard.musicbrainz.org) - Music tagger.
-- [MuteUnmuteMic](https://github.com/CocoaHeadsBrasil/MuteUnmuteMic) - Mute and unmute your Mac's microphone with a keyboard shortcut.
 - [Muzzle](https://muzzleapp.com) - Silence embarrassing notifications during screen sharing.
-- [MWeb](http://www.mweb.im) - Markdown writing, note-taking, and static blog generator.
-- [mycli](https://github.com/dbcli/mycli) - Command Line Interface for MySQL, MariaDB, and Percona.
-- [MySQL Workbench](http://dev.mysql.com/downloads/workbench) - Visual database design tool.
-- 
 - [Naden](https://naden.co) - App for tracking habits and goals.
 - [NetNewsWire](https://netnewswire.com/) - RSS reader.
 - [NotePlan](https://noteplan.co) - Markdown-based calendar and notes app.
@@ -380,6 +290,29 @@
 - [Zsh](https://www.zsh.org) - Powerful shell with scripting language.
 
 ### Cross-applications
+- [Mailspring](https://getmailspring.com) - Email client.
+- [Malwarebytes](https://www.malwarebytes.com/macdownload) - Malware protection.
+- [Manta](https://github.com/hql287/Manta) - Flexible invoicing desktop app with beautiful & customizable templates.
+- [Mark Text](https://github.com/marktext/marktext) - A simple and elegant Markdown editor.
+- [Marp](https://marp.app) - Markdown presentation editor.
+- [Marvel](https://marvelapp.com) - Design and prototyping tool.
+- [Marxico](https://marxi.co) - Markdown editor.
+- [massCode](https://masscode.io) - An open-source code snippets manager for developers.
+- [Mattermost](https://mattermost.com/download) - Open-source messaging platform.
+- [Micro](https://github.com/zyedidia/micro) - A modern and intuitive terminal-based text editor.
+- [Microsoft Edge](https://www.microsoft.com/edge) - Web browser by Microsoft.
+- [Microsoft To-Do](https://todo.microsoft.com) - To-do list app by Microsoft.
+- [Miller](https://miller.readthedocs.io/en/latest) - Command-line CSV processor.
+- [Min](https://minbrowser.org) - Fast, minimal web browser.
+- [Mingo](https://mingo.io) - Smart task management.
+- [mitmproxy](https://mitmproxy.org) - Interactive TLS-capable intercepting proxy.
+- [Mixxx](https://mixxx.org) - DJ software.
+- [MongoDB](https://www.mongodb.com) - NoSQL database.
+- [Motrix](https://motrix.app) - Full-featured download manager.
+- [mpv](https://www.mpv.io) - Media player.
+- [muCommander](https://www.mucommander.com) - Cross-platform file manager.
+- [Museeks](https://museeks.io) - Simple music player.
+- [MySQL Workbench](http://dev.mysql.com/downloads/workbench) - Visual database design tool.
 - [Natron](https://natrongithub.github.io) - Video compositing software.
 - [ndm](https://720kb.github.io/ndm) - NPM desktop manager.
 - [NetBeans](https://netbeans.org) - Integrated development environment (IDE).
