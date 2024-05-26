@@ -294,169 +294,36 @@
 - [NW.js](https://nwjs.io) - Platform for building desktop applications with JavaScript.
 - [Nylas Mail](https://nylas.com/nylasmail) - Email client and sync engine.
 - [Nylas Mail](https://www.nylas.com) - Email, calendar, and contacts app.
-- [Objective-See](https://objectivesee.com/products) - Security tools for macOS.
-- [ObjectiveC2Swift](https://objectivec2swift.com/#/xcodeextension) - Xcode extension to convert Objective-C to Swift.
-- [Obsidian](https://obsidian.md) - Note-taking and knowledge base app.
-- [OKA Typing Class](https://okaapps.com/product/1470926410) - Learn typing and improve typing speed.
-- [OKA Word Class](https://okaapps.com/product/1612400976) - Learn vocabulary and improve spelling.
-- [OmniGroup](https://www.omnigroup.com) - Productivity apps for macOS and iOS.
-- [One Switch](https://fireball.studio/oneswitch) - Mac menu bar app for system switches.
-- [OneNote](https://www.onenote.com) - Note-taking app by Microsoft.
-- [Oni](https://github.com/onivim/oni) - Oni is a modern modal editing environment - powered by Neovim.
-- [ONLYOFFICE](https://www.onlyoffice.com) - Office suite for business collaboration.
-- [OnyX](https://www.titaniumsoftware.fr/en/onyx.html) - Maintenance and optimization tool for macOS.
-- [OpenCashew](https://github.com/dhennessy/OpenCashew) - Unofficial Evernote client for macOS.
+-
 - [OpenEmu](https://github.com/OpenEmu/OpenEmu) - An open-source retro video game emulation console.
-- [OpenInCode](https://github.com/sozercan/OpenInCode) - macOS Finder toolbar app to open current folder in Visual Studio Code.
 - [OpenInTerminal](https://github.com/Ji4n1ng/OpenInTerminal) - Finder Toolbar app to open the current directory in Terminal.
-- [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - An open-source reimplementation of RollerCoaster Tycoon 2.
-- [OpenRocket](https://github.com/openrocket/openrocket) - An open-source rocket simulator.
-- [Opera](https://www.opera.com) - Web browser.
 - [Orbstack](https://orbstack.dev) - App development platform.
 - [Origami](https://origami.design) - Design prototyping tool.
-- [osagitfilter](https://github.com/doekman/osagitfilter) - A macOS filter to handle OSA files during git operations.
-- [Outline](https://getoutline.org) - Note-taking and knowledge base app.
 - [OutlineEdit](https://outlineedit.com) - Outline editor.
-- [Overcast](https://overcast.fm/) - Podcast player.
-- [ownCloud](https://owncloud.org) - Self-hosted file sync and share.
-- [Padloc](https://github.com/padloc/padloc) - A modern, open-source password manager.
-- [PageExtender.app](https://github.com/fphilipe/PageExtender.app) - Adds new options to the macOS Save Panel.
 - [Paintbrush](https://paintbrush.sourceforge.net) - Cocoa-based paint program.
-- [PaintCode](https://www.paintcodeapp.com) - Vector drawing app that generates Objective-C or Swift code.
 - [Panic](https://panic.com) - Software development company.
-- [Paragon NTFS for Mac](https://www.paragonsoftware.com/home/ntfsmac) - NTFS driver for macOS.
-- [Parallels](https://www.parallels.com) - Virtualization software.
-- [Pareto Security](https://paretosecurity.com) - Network security and privacy tool.
-- [Paste](https://pasteapp.me) - Clipboard history manager.
-- [Pastebot](https://tapbots.com/pastebot) - Clipboard manager and snippet manager.
-- [Path Finder](https://pathfinder.dev/) - File manager.
-- [Path Finder](https://www.cocoatech.com/pathfinder) - File management app.
-- [Patterns](http://krillapps.com/patterns) - Drawing app.
 - [Paw](https://paw.cloud) - API client.
-- [PDF Expert](https://pdfexpert.com) - PDF editor.
-- [PDF Pals](https://pdfpals.com) - PDF manipulation tools.
-- [PDF Reader Pro](https://www.pdfreaderpro.com) - PDF editor and reader.
-- [PDFGear](https://www.pdfgear.com) - PDF manipulation tool.
-- [Pencil](http://pencil.evolus.vn) - Open-source GUI prototyping tool.
-- [Pencil](https://github.com/pencil2d/pencil) - An animation/drawing software for macOS.
-- [Pencil2D](https://www.pencil2d.org) - Open-source animation software.
 - [Pennywise](https://github.com/kamranahmedse/pennywise) - Cross-platform application to open any website or media in a floating window.
 - [PercentCalculator](https://github.com/cemolcay/PercentCalculator) - Percentage calculation app for macOS.
-- [Perian](https://perian.org/#download) - QuickTime plugin for various video formats.
-- [pgcli](https://www.pgcli.com) - Command-line interface for PostgreSQL.
-- [pgMagic](https://pgmagic.app/?ref=awesomemac) - PostgreSQL database management.
-- [pgModeler](https://pgmodeler.io) - PostgreSQL database modeler.
-- [Phoenix](https://github.com/kasper/phoenix) - A lightweight macOS window and app manager scriptable with JavaScript.
 - [photominer](https://github.com/gergelysanta/photominer) - Your personal and private photo sharing app.
-- [PicGo](https://github.com/Molunerfinn/PicGo) - An open-source image uploader and manager for GitHub.
-- [Pika](https://github.com/superhighfives/pika) - Open-source color picker app for macOS.
-- [Pillager](https://github.com/Pjirlip/Pillager) - macOS app to manage your items and inventory in Minecraft.
-- [Pine](https://github.com/lukakerr/Pine) - A modern, fast, and beautiful email client for macOS.
-- [PiPifier](https://github.com/arnoappenzeller/PiPifier) - Safari extension for Picture-in-Picture.
-- [PiPTool](https://github.com/bfmatei/PiPTool) - Picture-in-picture mode for macOS.
-- [PiStats](https://github.com/Bunn/PiStats) - Raspberry Pi status in your macOS menu bar.
+- [Pillager](https://github.com/Pjirlip/Pillager) - A macOS Video Downloader written in Swift and Obj.-C
 - [Pixelmator](http://www.pixelmator.com/mac) - Image editing app.
-- [PlainPasta](https://github.com/hisaac/PlainPasta) - A simple and minimalistic text editor for macOS.
-- [Plash](https://github.com/sindresorhus/Plash) - Native-like web app for your macOS desktop.
-- [Platypus](https://github.com/sveinbjornt/Platypus) - Create native Mac applications from command-line scripts.
 - [Playback](https://mafintosh.github.io/playback) - Video player.
-- [PlayStatus](https://github.com/nbolar/PlayStatus) - Control the playback of your music apps right from the macOS menu bar.
-- [Plug for Mac](https://plugformac.com) - Mac system utility.
-- [Plug](https://github.com/wulkano/Plug) - A plugin manager for Zsh, inspired by vim-plug.
 - [PNGmini](https://pngmini.com) - Image compression tool.
 - [Pock](https://github.com/pock/pock) - Display macOS Dock in Touch Bar.
-- [PodcastMenu](https://github.com/insidegui/PodcastMenu) - Menubar app to control Overcast.
-- [PodsUpdater](https://github.com/kizitonwose/PodsUpdater) - A macOS app that updates your CocoaPods dependencies.
-- [Polymail](https://polymail.io) - Email client.
-- [Popcorn Time](https://popcorntime.co) - Streaming platform.
 - [Porting Kit](http://portingkit.com) - Application installer for macOS games and software.
-- [Postbird](https://github.com/Paxa/postbird) - A PostgreSQL client for macOS.
-- [Postbox](https://www.postboxinc.com) - Email client.
 - [Postgres.app](https://postgresapp.com) - PostgreSQL database.
-- [PostgresApp](https://github.com/PostgresApp/PostgresApp) - The easiest way to get started with PostgreSQL on the Mac.
-- [Postico](https://eggerapps.at/postico) - Modern PostgreSQL client.
-- [Postman](https://www.getpostman.com) - API development and testing tool.
-- [PowerShell](https://github.com/powershell/powershell) - PowerShell for every system.
-- [PPRows](https://github.com/jkpang/PPRows) - View all app's rows in `Preferences` in macOS.
-- [PPSSPP](https://www.ppsspp.org) - PSP emulator.
-- [Predator](https://github.com/vpeschenkov/Predator) - A utility for stopping apps from hogging your Mac's resources.
-- [Presentify](https://presentify.compzets.com) - Annotation tool for screen presentations.
-- [Preset Brewery](https://www.presetbrewery.com) - Audio plugin manager.
-- [Principle for Mac](https://principleformac.com) - Interaction design tool.
 - [Product Hunt - Mac](https://www.producthunt.com/topics/mac) - Discover and share new Mac apps.
-- [ProfileCreator](https://github.com/ProfileCreator/ProfileCreator) - macOS application to create device configuration profiles.
-- [ProfilesManager](https://github.com/shaojiankui/ProfilesManager) - Application for managing provisioning profiles.
-- [Protonail](https://protonail.com) - Email client.
-- [ProtoPie](https://www.protopie.io) - Prototyping tool for designers.
-- [Proxie](https://proxie.app) - Web debugging proxy.
-- [Proxyman](https://proxyman.app) - Web debugging proxy for macOS.
 - [PSequel](https://www.psequel.com) - PostgreSQL GUI tool for macOS.
-- [PSIBar](https://github.com/nikhilsh/PSIBar) - A macOS app that shows the status of public transportation in Puget Sound.
-- [Pulp](https://github.com/bazalp/pulp/releases) - Music player for macOS.
-- [PushMate](https://pushmate.app) - Push notifications manager.
-- [PushNotifications](https://github.com/onmyway133/PushNotifications) - Push notifications for every update.
-- [pyDailyChanger](https://github.com/IngoMeyer441/pyDailyChanger) - A Python script to change wallpapers daily on macOS.
-- [qBittorrent](https://github.com/qbittorrent/qBittorrent) - Free and open-source BitTorrent client.
-- [qBittorrent](https://www.qbittorrent.org) - Open-source BitTorrent client.
-- [Qbserve](https://qotoqot.com/qbserve) - Automatic time tracking tool.
-- [QEMU](https://www.qemu.org) - Open-source emulator.
-- [QLMarkdown](https://github.com/sbarex/QLMarkdown) - macOS QuickLook plugin for rendering Markdown files.
-- [QLVideo](https://github.com/Marginal/QLVideo) - Quick Look plugin for previewing video files.
-- [QorumLogs](https://github.com/Esqarrouth/QorumLogs) - Swift logging utility.
-- [QOwnNotes](https://github.com/pbek/QOwnNotes) - Plain-text file markdown note taking with Nextcloud integration.
-- [QOwnNotes](https://www.qownnotes.org) - Plain-text file notepad with markdown support.
-- [QSpace](https://qspace.awehunt.com) - Task and project management app.
-- [Qt](https://www.qt.io) - Cross-platform application framework.
-- [Quail](https://github.com/1000ch/quail) - Accessible communication app for macOS.
-- [Quick Look](https://en.wikipedia.org/wiki/Quick_Look) - File preview feature on macOS.
-- [Quickeys](https://github.com/alexrosenfeld10/Quickeys) - Lightweight macro and automation app for macOS.
-- [Quicksilver](https://github.com/quicksilver/Quicksilver) - A fast macOS application launcher.
-- [Quickwords](https://github.com/quickwords/quickwords) - A Markdown text editor for macOS.
-- [QuikFlow](https://quikflow.app) - Workflow automation tool.
-- [Quiver](http://happenapps.com/#quiver) - Note-taking app.
-- [Quora](https://www.quora.com) - Question-and-answer platform.
-- [Qutebrowser](https://www.qutebrowser.org) - Keyboard-driven web browser.
-- [QView](https://interversehq.com/qview) - Image viewer.
-- [Rambox](https://rambox.pro) - Messaging and email app.
-- [ramme](https://github.com/terkelg/ramme) - Unofficial Instagram Desktop App.
-- [Rapid MG](https://rapidmg.branchseer.com) - File transfer service.
 - [Raycast](https://raycast.com) - Command palette for developers.
-- [React Desktop](https://reactdesktop.js.org) - JavaScript library for building desktop applications.
-- [reactotron](https://github.com/infinitered/reactotron) - Desktop app for inspecting your React JS and React Native projects.
 - [ReactXP](https://microsoft.github.io/reactxp) - Library for building cross-platform apps.
 - [ReadKit](http://readkitapp.com) - RSS reader.
-- [RealVNC](https://www.realvnc.com) - Remote access software.
-- [Rebound](https://github.com/shobrook/rebound) - Command-line tool to watch a directory and upload changed files to a remote server.
 - [Rectangle](https://github.com/rxhanson/Rectangle) - Move and resize windows in macOS using keyboard shortcuts or snap areas.
-- [Reddit](https://www.reddit.com) - Online community platform.
-- [RedditOS](https://github.com/Dimillian/RedditOS) - A SwiftUI Reddit client for macOS.
-- [Redis Desktop Manager](https://github.com/uglide/RedisDesktopManager) - Cross-platform desktop Redis client.
-- [Redis Desktop Manager](https://redisdesktop.com) - GUI tool for managing Redis databases.
-- [redisapp](https://github.com/jpadilla/redisapp) - Redis management made simple.
 - [Reeder](http://reederapp.com) - RSS reader.
-- [RegexRx](http://www.mactechnologies.com/index.php?page=downloads#regexrx) - Regular expression testing app.
-- [RescueTime](https://www.rescuetime.com) - Time tracking and productivity tool.
-- [ResignTool](https://github.com/InjoyDeng/ResignTool) - A tool for signing and re-signing iOS and watchOS apps, without Xcode.
-- [ResizeMaster](https://www.boltnev.com/resizemaster) - Batch image resizer.
-- [Resizr](https://github.com/onurgenes/Resizr) - Simple image resizer.
-- [Responsively](https://responsively.app) - Web design testing tool.
-- [Reventlou](https://github.com/b3z/reventlou) - Anonymous microphone recording and live streaming.
 - [Rhea](https://github.com/timonus/Rhea) - macOS app to manage Bluetooth connections.
-- [RightFont](http://rightfontapp.com) - Font manager.
-- [ripgrep](https://github.com/BurntSushi/ripgrep) - Fast, line-oriented search tool.
-- [Rize](https://rize.io) - Focus and pomodoro timer.
 - [rktmachine](https://github.com/woofwoofinc/rktmachine) - Docker alternative rkt-based app container runtime.
-- [RoboMongo](https://github.com/Studio3T/robomongo) - Native MongoDB management tool (admin GUI) for Mac, Linux, and Windows.
-- [Rocket.Chat.Electron](https://github.com/RocketChat/Rocket.Chat.Electron) - Official desktop application for Rocket.Chat.
 - [Rocket](http://matthewpalmer.net/rocket) - Emoji shortcut picker.
 - [Rocky Sand Studio](https://www.rockysandstudio.com) - Mac software development.
-- [Royal TS](https://www.royalapps.com/ts/mac/features) - Remote desktop, SSH, and SFTP client.
-- [RPCS3](https://rpcs3.net) - PlayStation 3 emulator.
-- [Rugby](https://github.com/swiftyfinch/Rugby) - SwiftUI app for browsing JIRA issues.
-- [RustDesk](https://rustdesk.com) - Remote desktop software.
-- [Ryujinx](https://ryujinx.org) - Nintendo Switch emulator.
--
-- 
 - [Seashore](https://github.com/robaho/seashore) - An open source image editing program for macOS.
 - [SelfControl](https://github.com/SelfControlApp/selfcontrol) - A macOS app to block your own access to distracting websites.
 - [Sequel Pro](https://www.sequelpro.com) - MySQL database management.
@@ -553,6 +420,41 @@
 - [Zsh](https://www.zsh.org) - Powerful shell with scripting language.
 
 ### Cross-applications
+- [Obsidian](https://obsidian.md) - Note-taking and knowledge base app.
+- [OneNote](https://www.onenote.com) - Note-taking app by Microsoft.
+- [Oni](https://github.com/onivim/oni) - Oni is a modern modal editing environment - powered by Neovim.
+- [ONLYOFFICE](https://www.onlyoffice.com) - Office suite for business collaboration.
+- [OpenRCT2](https://github.com/OpenRCT2/OpenRCT2) - An open-source reimplementation of RollerCoaster Tycoon 2.
+- [Opera](https://www.opera.com) - Web browser.
+- [Outline](https://getoutline.org) - Note-taking and knowledge base app.
+- [ownCloud](https://owncloud.org) - Self-hosted file sync and share.
+- [PDF Reader Pro](https://www.pdfreaderpro.com) - PDF editor and reader.
+- [PDFGear](https://www.pdfgear.com) - PDF manipulation tool.
+- [Pencil](http://pencil.evolus.vn) - Open-source GUI prototyping tool.
+- [Pencil2D](https://www.pencil2d.org) - Open-source animation software.
+- [Popcorn Time](https://popcorntime.co) - Streaming platform.
+- [Postbird](https://github.com/Paxa/postbird) - A PostgreSQL client for macOS.
+- [Postman](https://www.getpostman.com) - API development and testing tool.
+- [PowerShell](https://github.com/powershell/powershell) - PowerShell for every system.
+- [PPSSPP](https://www.ppsspp.org) - PSP emulator.
+- [qBittorrent](https://www.qbittorrent.org) - Open-source BitTorrent client.
+- [QEMU](https://www.qemu.org) - Open-source emulator.
+- [QOwnNotes](https://www.qownnotes.org) - Plain-text file notepad with markdown support.
+- [Quail](https://github.com/1000ch/quail) - Accessible communication app for macOS.
+- [Quickwords](https://github.com/quickwords/quickwords) - A Markdown text editor for macOS.
+- [QuikFlow](https://quikflow.app) - Workflow automation tool.
+- [QView](https://interversehq.com/qview) - Image viewer.
+- [Rambox](https://rambox.pro) - Messaging and email app.
+- [React Desktop](https://reactdesktop.js.org) - JavaScript library for building desktop applications.
+- [RegexRx](http://www.mactechnologies.com/index.php?page=downloads#regexrx) - Regular expression testing app.
+- [RescueTime](https://www.rescuetime.com) - Time tracking and productivity tool.
+- [Responsively](https://responsively.app) - Web design testing tool.
+- [Rize](https://rize.io) - Focus and pomodoro timer.
+- [Rocket.Chat.Electron](https://github.com/RocketChat/Rocket.Chat.Electron) - Official desktop application for Rocket.Chat.
+- [Royal TS](https://www.royalapps.com/ts/mac/features) - Remote desktop, SSH, and SFTP client.
+- [RPCS3](https://rpcs3.net) - PlayStation 3 emulator.
+- [RustDesk](https://rustdesk.com) - Remote desktop software.
+- [Ryujinx](https://ryujinx.org) - Nintendo Switch emulator.
 - [Saber](https://saber.adil.hanney.org) - Markdown presentation tool.
 - [Scribus](https://www.scribus.net) - Open-source desktop publishing.
 - [Shift](https://tryshift.com) - Workstation for productivity.
