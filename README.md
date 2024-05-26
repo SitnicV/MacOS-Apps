@@ -455,139 +455,28 @@
 - [Rugby](https://github.com/swiftyfinch/Rugby) - SwiftUI app for browsing JIRA issues.
 - [RustDesk](https://rustdesk.com) - Remote desktop software.
 - [Ryujinx](https://ryujinx.org) - Nintendo Switch emulator.
-- [Saber](https://saber.adil.hanney.org) - Markdown presentation tool.
-- [Safari](https://www.apple.com/safari) - Apple's web browser.
-- [SafeInCloud](https://safeincloud.com/en) - Password manager.
-- [Scapple](http://www.literatureandlatte.com/scapple.php) - Mind-mapping tool.
-- [scm_breeze](https://github.com/scmbreeze/scm_breeze) - Adds numbered shortcuts to the output git status, and much more.
-- [Screen Studio](https://www.screen.studio) - Screen recording and live streaming software.
-- [Screenbar](https://github.com/crilleengvall/Screenbar) - Control your external screens from the menu bar.
-- [Screencat](https://github.com/maxogden/screencat) - Share your screen via a web link.
-- [ScreenFlow](https://www.telestream.net/screenflow) - Video editing and screen recording tool.
-- [Screentendo](https://github.com/AaronRandall/Screentendo) - Turn your screen into a playable Super Mario Bros. level.
-- [ScreenToLayers](https://github.com/duyquoc/ScreenToLayers) - Easily capture the entire screen or a specific window as layers.
-- [Scribus](https://www.scribus.net) - Open-source desktop publishing.
-- [Scrivener](https://www.literatureandlatte.com/scrivener/overview) - Writing software.
-- [Seafile](https://www.seafile.com) - File hosting and synchronization.
-- [Seaglass](https://github.com/neilalexander/seaglass) - A beautiful app to connect to your Sonos speakers on macOS.
+-
+- 
 - [Seashore](https://github.com/robaho/seashore) - An open source image editing program for macOS.
-- [SecureCRT](https://www.vandyke.com/products/securecrt) - Terminal emulator for secure remote access.
 - [SelfControl](https://github.com/SelfControlApp/selfcontrol) - A macOS app to block your own access to distracting websites.
-- [Sensei](https://sensei.app) - Mac performance monitoring and optimization tool.
-- [Sensible Side Buttons](http://sensiblesidebuttons.archagon.net) - Customizable side buttons for mice.
-- [Sequel Pro](https://github.com/sequelpro/sequelpro) - MySQL/MariaDB database management for macOS.
 - [Sequel Pro](https://www.sequelpro.com) - MySQL database management.
-- [Serial](https://www.decisivetactics.com/products/serial) - Serial communication analyzer.
-- [Sessions](https://github.com/AlexPerathoner/Sessions) - Safari extension for managing sessions.
-- [Setapp](https://setapp.com) - Subscription service for Mac apps.
-- [Shadowsocks](http://shadowsocks.org) - Cross-platform secured socks5 proxy.
-- [ShallowBackup](https://github.com/alichtman/shallowbackup) - Simple macOS configuration backup tool.
-- [Shift](https://tryshift.com) - Workstation for productivity.
-- [ShiftIt](https://github.com/fikovnik/ShiftIt) - Manage windows size and position.
-- [Shifty](https://github.com/thompsonate/Shifty) - macOS menu bar app that automatically adjusts your display's color temperature.
 - [Shifty](https://shifty.natethompson.io) - Menu bar app for Dark Mode.
-- [Shimo VPN](https://www.shimovpn.com) - VPN client for Mac.
-- [ShotBuilder](https://itunes.apple.com/app/shotbuilder/id1294179975?mt=12) - App for filmmakers to plan and visualize shots.
-- [Shotcut](https://www.shotcut.org) - Open-source video editor.
 - [Shottr](https://shottr.cc) - Screenshot and image sharing tool.
 - [shuttle](https://github.com/fitztrev/shuttle) - SSH shortcut menu for macOS.
-- [Sidebar](http://sidebarapp.net) - Desktop extension with widgets.
-- [SideNotes](https://www.apptorium.com/sidenotes) - Note-taking app.
-- [Sigil](https://sigilebook.com) - EPUB ebook editor.
-- [Signal](https://signal.org/download) - Private messaging app.
-- [SimpleDiagrams](https://www.simplediagrams.com) - Diagramming app for Mac.
-- [SimpleMind](https://simplemind.eu) - Mind mapping app.
-- [Simpo](https://github.com/KeliCheng/Simpo) - Simple macOS PDF viewer inspired by Preview.
 - [Sindre Sorhus Apps](https://sindresorhus.com/apps) - Various apps by Sindre Sorhus.
-- [SiteSucker](https://ricksapps.com/osx/sitesucker) - Mac website downloader.
-- [SizeUp](http://www.irradiatedsoftware.com/sizeup) - Window manager.
-- [Sketch Toolbox](https://sketchtoolbox.com) - Plugin manager for Sketch.
 - [Sketch](http://www.sketchapp.com) - Vector graphics editor.
-- [SketchBook](https://www.sketchbook.com/?locale=enUS) - Drawing app by Autodesk.
-- [skhd](https://github.com/koekeishiya/skhd) - Simple hotkey daemon for macOS.
-- [Skiff Mail](https://skiff.com/mail) - Email client focused on privacy.
-- [Skiff](https://skiff.com) - Document collaboration platform.
-- [Skim](https://skimapp.sourceforge.net) - PDF reader and note-taker.
-- [Skitch](https://evernote.com/skitch) - Image annotation tool by Evernote.
-- [SkyFonts](https://skyfonts.com) - Fonts manager.
-- [Skype](https://www.skype.com) - Communication platform.
-- [Slack](https://slack.com/downloads/mac) - Team collaboration and messaging app.
-- [Slant](https://www.slant.co) - Product recommendations and comparisons.
-- [slate](https://github.com/jigish/slate) - A window management application similar to Divvy and SizeUp.
-- [SlimHUD](https://github.com/AlexPerathoner/SlimHUD) - Slim and minimalistic macOS heads-up display.
-- [Sloth](https://github.com/sveinbjornt/Sloth) - macOS application that displays a list of all open files and sockets.
 - [Sloth](https://sveinbjorn.org/sloth) - macOS system monitoring tool.
-- [SlowQuitApps](https://github.com/dteoh/SlowQuitApps) - Adds a delay to Command-Q to help prevent accidental app quitting.
-- [SmartGit](https://www.syntevo.com/smartgit) - Git GUI client.
-- [SmartPush](https://github.com/shaojiankui/SmartPush) - A small macOS utility to push iOS app updates to your device.
-- [Snap](http://teampaper.me/snap) - Window manager for macOS.
 - [Snap](https://indragie.com/snap) - Image organizer.
-- [sniffnet](https://github.com/GyulyVGC/sniffnet) - A simple network sniffer for macOS.
 - [Snip](http://snip.qq.com) - Screenshot annotation tool.
-- [Snipaste](https://www.snipaste.com) - Screenshot and annotation tool.
-- [Soduto](https://github.com/soduto/Soduto) - Organize your desktop apps by category.
-- [Solarized](https://ethanschoonover.com/solarized) - Color scheme.
-- [Sonora](https://github.com/sonoramac/Sonora) - Elegant, hand-crafted music player for macOS.
-- [SoundCleod](https://github.com/salomvary/soundcleod) - Unofficial SoundCloud player built with Electron.
 - [SourceCodeSyntaxHighlight](https://github.com/sbarex/SourceCodeSyntaxHighlight) - macOS QuickLook plugin for rendering source code files with syntax highlighting.
-- [SourceTree](https://www.sourcetreeapp.com) - Git GUI client.
-- [Spark Mail](https://sparkmailapp.com) - Email client with intelligent email prioritization.
-- [Sparkle](https://sparkleapp.com) - Visual web design tool.
 - [Specht](https://github.com/zhuhaow/Specht) - A live video chat app.
-- [SpechtLite](https://github.com/zhuhaow/SpechtLite) - Lightweight video chat app using WebRTC.
-- [spectacle](https://github.com/eczarny/spectacle) - Window management app for macOS.
-- [SpeedReader](https://github.com/LumingYin/SpeedReader) - A reading tool for macOS that helps you read faster.
-- [Spillo](https://bananafishsoftware.com/products/spillo) - Bookmark manager for macOS.
-- [Spotify](https://www.spotify.com) - Music streaming service.
-- [Spotify4BigSur](https://github.com/fabiusBile/Spotify4BigSur) - Spotify UI for Big Sur.
-- [SpotMenu](https://github.com/kmikiy/SpotMenu) - Spotify and iTunes controller for macOS's menu bar.
-- [SpyderIDE](https://www.spyderide.org) - Python IDE.
-- [SQLite Browser](https://github.com/sqlitebrowser/sqlitebrowser) - Visual tool to manage SQLite databases.
-- [SQLiteBrowser](https://sqlitebrowser.org) - Visual tool to manage SQLite databases.
-- [SQLPro Studio](http://www.sqlprostudio.com) - Database client for macOS.
 - [SSH Tunnel](https://codinn.com/tunnel) - SSH tunnel manager.
-- [Stack](https://getstack.app) - Internet launchpad for web apps.
-- [Standard Notes](https://github.com/standardnotes/app) - A free, open-source, and completely encrypted notes app.
-- [Standard Notes](https://standardnotes.com) - Encrypted note-taking app.
-- [Stargate](https://github.com/stargatedaw/stargate) - macOS client for the popular Stargate game.
-- [StarUML](https://staruml.io) - UML modeling tool.
-- [Station](https://getstation.com) - Smart dock for your apps.
-- [stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar.
 - [StickyNotes](https://github.com/LumingYin/StickyNotes) - A sticky notes app for macOS.
-- [Strategr](https://khrykin.github.io/strategr) - Mind mapping app.
-- [StrategrDesktop](https://github.com/khrykin/StrategrDesktop) - Visual tool for planning and tracking tasks and projects.
-- [streaker](https://github.com/jamieweavis/streaker) - A frictionless commit streak tracker for your GitHub contributions graph.
-- [Stremio](https://www.stremio.com) - Video content aggregation service.
-- [stretchly](https://github.com/hovancik/stretchly) - Break time reminder app.
-- [Stringed](http://stringed.buenosapps.com) - Guitar tab editor.
-- [Stringz](https://github.com/mohakapt/Stringz) - A macOS menu bar app that makes localization easy for developers and translators.
-- [Strongbox](https://strongboxsafe.com) - Password manager.
-- [Stronghold](https://github.com/alichtman/stronghold) - Privacy and security app for your Mac.
-- [stts](https://github.com/inket/stts) - A simple status monitoring app that lives in the menu bar.
-- [Studio 3T](https://studio3t.com) - MongoDB client.
-- [Studio Link](https://studiolink.de) - Real-time audio connection over the internet.
-- [SubEthaEdit](https://github.com/subethaedit/SubEthaEdit) - Collaborative text editor for plain text.
 - [SubEthaEdit](https://subethaedit.net) - Collaborative text editor.
-- [Subler](https://bitbucket.org/galad87/subler/src) - MP4 file muxer and tagger.
-- [Sublime Merge](https://www.sublimemerge.com) - Git client.
-- [Sublime Text](https://www.sublimetext.com/3) - Text editor for code.
-- [Sunscreen](https://github.com/davidcelis/Sunscreen) - macOS utility to prevent sleep and keep your screen awake.
-- [Suohai](https://github.com/Sunnyyoung/Suohai) - Native macOS app for browsing GitHub repositories.
-- [Super Productivity](https://superproductivity.com) - To-do list and time tracking app.
-- [SuperDuper!](https://shirtpocket.com/SuperDuper/SuperDuperDescription.html) - Backup and recovery software for macOS.
 - [Surge](https://nssurge.com) - Network toolbox.
-- [SurrealDB](https://github.com/surrealdb/surrealdb) - Open-source NoSQL database management tool.
 - [SVGS.us](http://www.svgs.us) - SVG icons for developers.
 - [SwiftBar](https://github.com/swiftbar/SwiftBar) - Powerful Swift-based macOS menu bar customization tool.
 - [SwiftGuard](https://github.com/Lennolium/swiftGuard) - A macOS app to prevent Swift code injection.
-- [SwiftQuit](https://github.com/onebadidea/swiftquit) - A simple macOS app to quickly quit applications.
-- [Swifty](https://getswifty.pro) - Git client.
-- [Swifty](https://github.com/swiftyapp/swifty) - Markdown editor for Mac with GitHub flavored markdown and a rich set of features.
-- [SwiftyBeaver](https://github.com/SwiftyBeaver/SwiftyBeaver) - Powerful Swift-based logging platform for iOS, macOS, watchOS, and tvOS.
-- [Swimat](https://github.com/Jintin/Swimat) - A Xcode plugin to format Swift code.
-- [SYM](https://github.com/zqqf16/SYM) - A lightweight system monitor for macOS.
-- [Syncalicious](https://github.com/zenangst/Syncalicious) - macOS app for syncing your reading position across devices.
-- [Synfig Studio](https://synfig.org) - Animation software.
 - [TableTool](https://github.com/jakob/TableTool) - Simple CSV editor for macOS.
 - [Taskbook](https://github.com/klaussinani/taskbook) - A task manager that uses a simple todo.txt file format.
 - [TaskPaper](https://www.taskpaper.com) - Plain text to-do list.
@@ -664,6 +553,35 @@
 - [Zsh](https://www.zsh.org) - Powerful shell with scripting language.
 
 ### Cross-applications
+- [Saber](https://saber.adil.hanney.org) - Markdown presentation tool.
+- [Scribus](https://www.scribus.net) - Open-source desktop publishing.
+- [Shift](https://tryshift.com) - Workstation for productivity.
+- [Shotcut](https://www.shotcut.org) - Open-source video editor.
+- [Signal](https://signal.org/download) - Private messaging app.
+- [SketchBook](https://www.sketchbook.com/?locale=enUS) - Drawing app by Autodesk.
+- [Skiff Mail](https://skiff.com/mail) - Email client focused on privacy.
+- [Evernote](https://evernote.com/skitch) - Image annotation tool by Evernote.
+- [Skype](https://www.skype.com) - Communication platform.
+- [Slack](https://slack.com/downloads/mac) - Team collaboration and messaging app.
+- [sniffnet](https://github.com/GyulyVGC/sniffnet) - A simple network sniffer.
+- [Snipaste](https://www.snipaste.com) - Screenshot and annotation tool.
+- [SourceTree](https://www.sourcetreeapp.com) - Git GUI client.
+- [Spark Mail](https://sparkmailapp.com) - Email client with intelligent email prioritization.
+- [Spotify](https://www.spotify.com) - Music streaming service.
+- [SQLite Browser](https://github.com/sqlitebrowser/sqlitebrowser) - Visual tool to manage SQLite databases.
+- [SQLiteBrowser](https://sqlitebrowser.org) - Visual tool to manage SQLite databases.
+- [SQLPro Studio](http://www.sqlprostudio.com) - Database client for macOS.
+- [Stack](https://getstack.app) - Internet launchpad for web apps.
+- [Standard Notes](https://standardnotes.com) - Encrypted note-taking app.
+- [StarUML](https://staruml.io) - UML modeling tool.
+- [Station](https://getstation.com) - Smart dock for your apps.
+- [StrategrDesktop](https://github.com/khrykin/StrategrDesktop) - Visual tool for planning and tracking tasks and projects.
+- [Stremio](https://www.stremio.com) - Video content aggregation service.
+- [Sublime Merge](https://www.sublimemerge.com) - Git client.
+- [Sublime Text](https://www.sublimetext.com/3) - Text editor for code.
+- [SurrealDB](https://github.com/surrealdb/surrealdb) - Open-source NoSQL database management tool.
+- [Swifty](https://github.com/swiftyapp/swifty) - Free Offline-first Password Manager for MacOS, Windows and Linux.
+- [Synfig Studio](https://synfig.org) - Animation software.
 - [tabby](https://tabby.sh) - A simple GTK terminal emulator with advanced features.
 - [TablePlus](https://tableplus.io) - Modern, native database tool.
 - [Tad Viewer](https://www.tadviewer.com) - Text and hex file viewer.
